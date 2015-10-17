@@ -1,0 +1,318 @@
+##--------------- Groups ---------------##
+@BASE_1 = [kn_Ga kn_Ca kn_Cha kn_Ttha kn_Dda kn_Ddha kn_Ta kn_Tha kn_Da kn_Dha kn_Na kn_Pa kn_Pha kn_Bha kn_Ra kn_Lla kn_Va kn_Sha kn_Ssa kn_Sa kn_Ha];
+@BASE_2 = [kn_Ga.base kn_Ca.base kn_Cha.base kn_Ttha.base kn_Dda.base kn_Ddha.base kn_Ta.base kn_Tha.base kn_Da.base kn_Dha.base kn_Na.base kn_Pa.base kn_Pha.base kn_Bha.base kn_Ra.base kn_Lla.base kn_Va.base kn_Sha.base kn_Ssa.base kn_Sa.base kn_Ha.base];
+
+@BASE_3 = [kn_Ga kn_Ca kn_Cha kn_Ttha kn_Dda kn_Ddha kn_Ta kn_Tha kn_Da kn_Dha kn_Na kn_Pa kn_Pha kn_Bha kn_Ra kn_Va kn_Sha kn_Ssa kn_Sa kn_Ha];
+@BASE_4 = [kn_Ga.base kn_Ca.base kn_Cha.base kn_Ttha.base kn_Dda.base kn_Ddha.base kn_Ta.base kn_Tha.base kn_Da.base kn_Dha.base kn_Na.base kn_Pa.base kn_Pha.base kn_Bha.base kn_Ra.base kn_Va.base kn_Sha.base kn_Ssa.base kn_Sa.base kn_Ha.base];
+
+@OTTU_1 = [kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Ra.ottu kn_Rra.ottu kn_La.ottu kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu kn_Fa.ottu];
+
+@NUKTA_1 = [kn_Pha kn_Pha.base kn_PhI];
+
+@NMATRAUS_1 = [kn_Pa kn_Pha kn_Va];
+
+##--------------- Language Systems ---------------##
+
+languagesystem DFLT dflt;
+languagesystem knda dflt;
+languagesystem knd2 dflt;
+
+##--------------- Dependent Lookups ---------------##
+
+lookup reph_refer {
+    sub kn_Ra kn_Halant by kn_Reph;
+} reph_refer;
+
+##--------------- Independent Lookups ---------------##
+
+#---- AKHN ----
+
+lookup akhn {
+    sub kn_Ka kn_Halant kn_Ssa by kn_KSsa;
+    sub kn_Ka.halant kn_Ssa by kn_KSsa;
+    sub kn_Ja kn_Halant kn_Nya by kn_JNya;
+} akhn;
+
+#---- REPH ----
+
+lookup reph {
+    ignore sub [kn_Ra]' [kn_Halant]' [kn_Ka kn_Kha kn_Ga kn_Gha kn_Nga kn_Ca kn_Cha kn_Ja kn_Jha kn_Nya kn_Tta kn_Ttha kn_Dda kn_Ddha kn_Nna kn_Ta kn_Tha kn_Da kn_Dha kn_Na kn_Pa kn_Pha kn_Ba kn_Bha kn_Ma kn_Ya kn_Ra kn_Rra kn_La kn_Lla kn_Va kn_Sha kn_Ssa kn_Sa kn_Ha kn_Fa] ;
+    sub [kn_Ra]' lookup reph_refer [kn_Halant]' ;
+} reph;
+
+#---- HALN/HALF ----
+
+lookup haln_1 {
+    sub kn_Ka kn_Halant by kn_Ka.halant;
+    sub kn_Gha kn_Halant by kn_Gha.halant;
+    sub kn_Nya kn_Halant by kn_Nya.halant;
+    sub kn_KSsa kn_Halant by kn_KSsa.halant;
+} haln_1;
+
+lookup haln_2 {
+    sub @BASE_1' kn_Halant by @BASE_2;
+    sub @BASE_2 kn_Halant' by kn_Halant.alt1;
+} haln_2;
+
+#---- ABVS ----
+
+lookup abvs_1 {
+    sub kn_Ka kn_MatraE by kn_KE;
+    sub kn_Gha kn_MatraE by kn_GhE;
+    sub kn_Jha kn_MatraE by kn_JhE;
+    sub kn_Nya kn_MatraE by kn_NyE;
+    sub kn_Tta kn_MatraE by kn_TtE;
+    sub kn_Lla kn_MatraE by kn_LlE;
+    sub kn_KSsa kn_MatraE by kn_KSsE;
+} abvs_1;
+
+lookup abvs_2 {
+    sub @BASE_3' kn_MatraE by @BASE_4;
+    sub @BASE_4 kn_MatraE' by kn_MatraE.alt1;
+} abvs_2;
+
+lookup abvs_3 {
+    sub kn_Ka kn_MatraI by kn_KI;
+    sub kn_Kha kn_MatraI by kn_KhI;
+    sub kn_Ga kn_MatraI by kn_GI;
+    sub kn_Gha kn_MatraI by kn_GhI;
+    sub kn_Ca kn_MatraI by kn_CI;
+    sub kn_Cha kn_MatraI by kn_ChI;
+    sub kn_Ja kn_MatraI by kn_JI;
+    sub kn_Jha kn_MatraI by kn_JhI;
+    sub kn_Tta kn_MatraI by kn_TtI;
+    sub kn_Ttha kn_MatraI by kn_TthI;
+    sub kn_Dda kn_MatraI by kn_DdI;
+    sub kn_Ddha kn_MatraI by kn_DdhI;
+    sub kn_Nna kn_MatraI by kn_NnI;
+    sub kn_Ta kn_MatraI by kn_TI;
+    sub kn_Tha kn_MatraI by kn_ThI;
+    sub kn_Da kn_MatraI by kn_DI;
+    sub kn_Dha kn_MatraI by kn_DhI;
+    sub kn_Na kn_MatraI by kn_NI;
+    sub kn_Pa kn_MatraI by kn_PI;
+    sub kn_Pha kn_MatraI by kn_PhI;
+    sub kn_Ba kn_MatraI by kn_BI;
+    sub kn_Bha kn_MatraI by kn_BhI;
+    sub kn_Ma kn_MatraI by kn_MI;
+    sub kn_Ya kn_MatraI by kn_YI;
+    sub kn_Ra kn_MatraI by kn_RI;
+    sub kn_Rra kn_MatraI by kn_RrI;
+    sub kn_La kn_MatraI by kn_LI;
+    sub kn_Lla kn_MatraI by kn_LlI;
+    sub kn_Va kn_MatraI by kn_VI;
+    sub kn_Sha kn_MatraI by kn_ShI;
+    sub kn_Ssa kn_MatraI by kn_SsI;
+    sub kn_Sa kn_MatraI by kn_SI;
+    sub kn_Ha kn_MatraI by kn_HI;
+    sub kn_Fa kn_MatraI by kn_FI;
+    sub kn_KSsa kn_MatraI by kn_KSsI;
+    sub kn_JNya kn_MatraI by kn_JNyI;
+} abvs_3;
+
+#---- PSTS ----
+
+lookup psts_1 {
+    sub kn_Nya kn_MatraU by kn_NyU;
+    sub kn_Nya kn_MatraUu by kn_NyUu;
+    sub kn_Nya kn_MatraO by kn_NyO;
+} psts_1;
+
+lookup psts_2 {
+    sub kn_Ka kn_MatraAa by kn_KAa;
+    sub kn_Gha kn_MatraAa by kn_GhAa;
+    sub kn_Nya kn_MatraAa by kn_NyAa;
+} psts_2;
+
+lookup psts_3 {
+    sub @BASE_1' kn_MatraAa by @BASE_2;
+} psts_3;
+
+lookup psts_4 {
+	sub @BASE_1' kn_MatraAu by @BASE_2;
+} psts_4;
+
+lookup psts_5 {
+	sub @NUKTA_1 kn_Nukta' by kn_Nukta.alt1;
+} psts_5;
+
+lookup psts_6 {
+    sub kn_Ka kn_MatraAu by kn_KAu;
+    sub kn_Gha kn_MatraAu by kn_GhAu;
+    sub kn_KSsa kn_MatraAu by kn_KSsAu;
+} psts_6;
+
+lookup psts_7 {
+	sub @NMATRAUS_1 kn_MatraU' by kn_MatraU.alt1;
+	sub @NMATRAUS_1 kn_MatraUu' by kn_MatraUu.alt1;
+} psts_7;
+
+lookup psts_8 {
+    sub kn_Pa.base kn_MatraE.alt1 kn_MatraUu' by kn_MatraUu.alt1;
+    sub kn_Pha.base kn_MatraE.alt1 kn_MatraUu' by kn_MatraUu.alt1;
+    sub kn_Va.base kn_MatraE.alt1 kn_MatraUu' by kn_MatraUu.alt1;
+} psts_8;
+
+#---- BLWF ----
+
+lookup blwf_1 {
+    sub kn_Halant kn_Ka by kn_Ka.ottu;
+    sub kn_Halant kn_Kha by kn_Kha.ottu;
+    sub kn_Halant kn_Ga by kn_Ga.ottu;
+    sub kn_Halant kn_Gha by kn_Gha.ottu;
+    sub kn_Halant kn_Nga by kn_Nga.ottu;
+    sub kn_Halant kn_Ca by kn_Ca.ottu;
+    sub kn_Halant kn_Cha by kn_Cha.ottu;
+    sub kn_Halant kn_Ja by kn_Ja.ottu;
+    sub kn_Halant kn_Jha by kn_Jha.ottu;
+    sub kn_Halant kn_Nya by kn_Nya.ottu;
+    sub kn_Halant kn_Tta by kn_Tta.ottu;
+    sub kn_Halant kn_Ttha by kn_Ttha.ottu;
+    sub kn_Halant kn_Dda by kn_Dda.ottu;
+    sub kn_Halant kn_Ddha by kn_Ddha.ottu;
+    sub kn_Halant kn_Nna by kn_Nna.ottu;
+    sub kn_Halant kn_Ta by kn_Ta.ottu;
+    sub kn_Halant kn_Tha by kn_Tha.ottu;
+    sub kn_Halant kn_Da by kn_Da.ottu;
+    sub kn_Halant kn_Dha by kn_Dha.ottu;
+    sub kn_Halant kn_Na by kn_Na.ottu;
+    sub kn_Halant kn_Pa by kn_Pa.ottu;
+    sub kn_Halant kn_Pha by kn_Pha.ottu;
+    sub kn_Halant kn_Ba by kn_Ba.ottu;
+    sub kn_Halant kn_Bha by kn_Bha.ottu;
+    sub kn_Halant kn_Ma by kn_Ma.ottu;
+    sub kn_Halant kn_Ya by kn_Ya.ottu;
+    sub kn_Halant kn_Ra by kn_Ra.ottu;
+    sub kn_Halant kn_Rra by kn_Rra.ottu;
+    sub kn_Halant kn_La by kn_La.ottu;
+    sub kn_Halant kn_Lla by kn_Lla.ottu;
+    sub kn_Halant kn_Va by kn_Va.ottu;
+    sub kn_Halant kn_Sha by kn_Sha.ottu;
+    sub kn_Halant kn_Ssa by kn_Ssa.ottu;
+    sub kn_Halant kn_Sa by kn_Sa.ottu;
+    sub kn_Halant kn_Ha by kn_Ha.ottu;
+    sub kn_Halant kn_Fa by kn_Fa.ottu;
+} blwf_1;
+
+lookup blwf_2 {
+    sub kn_Ta.ottu kn_MatraR by kn_Ta.ottu.MatraR;  
+    sub kn_Ta.ottu kn_AiLengthMark by kn_Ta.ottu.AiLengthMark;
+    sub kn_Ma.ottu kn_MatraR by kn_Ma.ottu.MatraR;
+    sub kn_Ma.ottu kn_AiLengthMark by kn_Ma.ottu.AiLengthMark;
+    sub kn_Ta.ottu kn_kn_Ya.ottu by kn_Ta.Ya.ottu;
+    sub kn_Ma.ottu kn_Ya.ottu by kn_Ma.Ya.ottu;
+    sub kn_Ta.ottu kn_Halant kn_kn_Ya by kn_Ta.Ya.ottu;
+    sub kn_Ma.ottu kn_Halant kn_Ya by kn_Ma.Ya.ottu;
+    sub kn_Halant kn_Ta kn_Halant kn_kn_Ya by kn_Ta.Ya.ottu;
+    sub kn_Halant kn_Ma kn_Halant kn_Ya by kn_Ma.Ya.ottu;
+} blwf_2;
+
+#---- BLWS ----
+
+lookup blws_1 {
+	sub @OTTU_1 kn_Ra.ottu' by kn_Ra.ottu.alt1;
+} blws_1;
+
+lookup blws_2 {
+	sub @NUKTA_1 kn_Nukta' by kn_Nukta.alt1;
+} blws_2;
+
+##--------------- Lookups ---------------##
+
+feature akhn {
+    script knda;
+        lookup akhn;
+    script knd2;
+        lookup akhn;
+} akhn;
+
+#-------------
+
+feature rphf {
+    script knda;
+        lookup reph;
+    script knd2;
+        lookup reph;
+} rphf;
+
+#-------------
+
+feature haln {
+    script knda;
+        lookup haln_1;
+        lookup haln_2;
+    script knd2;
+        lookup haln_1;
+        lookup haln_2;
+} haln;
+
+#-------------
+
+feature half {
+    script knda;
+        lookup haln_1;
+        lookup haln_2;
+    script knd2;
+        lookup haln_1;
+        lookup haln_2;
+} half;
+
+#-------------
+
+feature abvs {
+    script knda;
+        lookup abvs_1;
+        lookup abvs_2;
+        lookup abvs_3;
+    script knd2;
+        lookup abvs_1;
+        lookup abvs_2;
+        lookup abvs_3;
+} abvs;
+
+#-------------
+
+feature psts {
+    script knda;
+        lookup psts_1;
+        lookup psts_2;
+        lookup psts_3;
+        lookup psts_4;
+        lookup psts_5;
+        lookup psts_6;
+        lookup psts_7;
+        lookup psts_8;
+    script knd2;
+        lookup psts_1;
+        lookup psts_2;
+        lookup psts_3;
+        lookup psts_4;
+        lookup psts_5;
+        lookup psts_6;
+        lookup psts_7;
+        lookup psts_8;
+} psts;
+
+#-------------
+
+feature blwf {
+    script knda;
+        lookup blwf_1;
+        lookup blwf_2;
+    script knd2;
+        lookup blwf_1;
+        lookup blwf_2;
+} blwf;
+
+#-------------
+
+feature blws {
+    script knda;
+        lookup blws_1;
+        lookup blws_2;
+    script knd2;
+        lookup blws_1;
+        lookup blws_2;
+} blws;
+
+#-------------
