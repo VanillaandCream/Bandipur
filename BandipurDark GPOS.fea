@@ -2969,6 +2969,12 @@ lookup kern_kannada {
     pos kn_JNyI kn_Fa.ottu <0 0 660 0>;
 } kern_kannada;
 
+lookup kern {
+    pos P A <0 0 -65 0>;
+    pos L T <0 0 -160 0>;
+    pos Y o <0 0 -99 0>;
+} kern;
+
 ##--------------- Lookups ---------------##
 
 feature blwm {
@@ -2980,6 +2986,7 @@ feature blwm {
 
 feature kern {
         lookup kern_kannada;
+        lookup kern;
 } kern;
 
 #-------------
