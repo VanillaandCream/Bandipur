@@ -2221,6 +2221,7 @@ lookup kern_kannada {
     pos kn_MatraE kn_MatraR <0 0 -200 0>;
     pos kn_MatraE kn_MatraRr <0 0 -200 0>;
     pos kn_MatraE kn_AiLengthMark <0 0 -200 0>;
+    pos kn_MatraE kn_KI <0 0 -100 0>;
     pos kn_MatraAu kn_Ta.ottu.AiLengthMark <0 0 -300 0>;
     pos kn_MatraAu kn_Ma.ottu.AiLengthMark <0 0 -300 0>;
     pos kn_MatraAu kn_Ta.ottu.MatraR <0 0 -300 0>;
@@ -2455,6 +2456,14 @@ lookup kern_kannada {
     pos kn_NyE kn_MatraR <0 0 -350 0>;
     pos kn_NyE kn_MatraRr <0 0 -600 0>;
     pos kn_NyE kn_AiLengthMark <0 0 -400 0>;
+    pos kn_NyE kn_TI <0 0 -100 0>;
+    pos kn_NyE kn_NI <0 0 -200 0>;
+    pos kn_NyE kn_VI <0 0 -100 0>;
+    pos kn_NyE kn_GhI <0 0 -100 0>;
+    pos kn_NyE kn_PI <0 0 -100 0>;
+    pos kn_NyE kn_PhI <0 0 -100 0>;
+    pos kn_NyE kn_SsI <0 0 -100 0>;
+    pos kn_NyE kn_SI <0 0 -200 0>;
     pos kn_TtE kn_Ma.Ya.ottu <0 0 -200 0>;
     pos kn_NyU kn_Ma.Ya.ottu <0 0 -200 0>;
     pos kn_NyUu kn_Ma.Ya.ottu <0 0 -200 0>;
@@ -2727,6 +2736,7 @@ lookup kern_kannada {
     pos kn_GhAu kn_Sa.ottu <0 0 -80 0>;
     pos kn_GhAu kn_Ha.ottu <0 0 -80 0>;
     pos kn_GhAu kn_Fa.ottu <0 0 -80 0>;
+    pos kn_Reph kn_KI <0 0 -100 0>;
     pos kn_Reph kn_TI <0 0 -120 0>;
     pos kn_Reph kn_NI <0 0 -120 0>;
     pos kn_Reph kn_VI <0 0 -120 0>;
