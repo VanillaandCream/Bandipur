@@ -2737,7 +2737,12 @@ lookup kern_kannada {
     pos kn_GhAu kn_Ha.ottu <0 0 -80 0>;
     pos kn_GhAu kn_Fa.ottu <0 0 -80 0>;
     pos kn_Reph kn_KI <0 0 -100 0>;
+    pos kn_Reph kn_DdI <0 0 -80 0>;
+    pos kn_Reph kn_DdhI <0 0 -80 0>;
     pos kn_Reph kn_TI <0 0 -120 0>;
+    pos kn_Reph kn_ThI <0 0 -80 0>;
+    pos kn_Reph kn_DI <0 0 -80 0>;
+    pos kn_Reph kn_DhI <0 0 -80 0>;
     pos kn_Reph kn_NI <0 0 -120 0>;
     pos kn_Reph kn_VI <0 0 -120 0>;
     pos kn_Reph kn_GhI <0 0 -120 0>;
