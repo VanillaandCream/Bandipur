@@ -1,16 +1,16 @@
 ##--------------- Groups ---------------##
 @BASE_1 = [kn_Ga kn_Ca kn_Cha kn_Ttha kn_Dda kn_Ddha kn_Ta kn_Tha kn_Da kn_Dha kn_Na kn_Pa kn_Pha kn_Bha kn_Ra kn_Lla kn_Va kn_Sha kn_Ssa kn_Sa kn_Ha];
 @BASE_2 = [kn_Ga.base kn_Ca.base kn_Cha.base kn_Ttha.base kn_Dda.base kn_Ddha.base kn_Ta.base kn_Tha.base kn_Da.base kn_Dha.base kn_Na.base kn_Pa.base kn_Pha.base kn_Bha.base kn_Ra.base kn_Lla.base kn_Va.base kn_Sha.base kn_Ssa.base kn_Sa.base kn_Ha.base];
-
 @BASE_3 = [kn_Ga kn_Ca kn_Cha kn_Ttha kn_Dda kn_Ddha kn_Ta kn_Tha kn_Da kn_Dha kn_Na kn_Pa kn_Pha kn_Bha kn_Ra kn_Va kn_Sha kn_Ssa kn_Sa kn_Ha];
 @BASE_4 = [kn_Ga.base kn_Ca.base kn_Cha.base kn_Ttha.base kn_Dda.base kn_Ddha.base kn_Ta.base kn_Tha.base kn_Da.base kn_Dha.base kn_Na.base kn_Pa.base kn_Pha.base kn_Bha.base kn_Ra.base kn_Va.base kn_Sha.base kn_Ssa.base kn_Sa.base kn_Ha.base];
-
 @OTTU_1 = [kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Ra.ottu kn_Rra.ottu kn_La.ottu kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu kn_Fa.ottu];
-
 @NUKTA_1 = [kn_Pha kn_Pha.base kn_PhI];
-
 @NMATRAUS_1 = [kn_Pa kn_Pha kn_Va];
-
+@REPH_BACK1 = [kn_Ra kn_RI];
+@REPH_BACK2 = [kn_Ra.base];
+@REPH_BACK3 = [kn_MatraE kn_MatraE.alt1 kn_Halant kn_Halant.alt1];
+@REPH_INPUT1 = [kn_Reph];
+    
 ##--------------- Language Systems ---------------##
 
 languagesystem DFLT dflt;
@@ -19,9 +19,29 @@ languagesystem knd2 dflt;
 
 ##--------------- Dependent Lookups ---------------##
 
-lookup reph_refer {
-    sub kn_Ra kn_Halant by kn_Reph;
-} reph_refer;
+lookup reph_refer_1 {
+    sub kn_MatraR by kn_Ra.ottu;
+} reph_refer_1;
+
+lookup reph_refer_2 {
+    sub kn_Reph by kn_MatraR;
+} reph_refer_2;
+
+lookup reph_refer_3 {
+    sub kn_MatraRr by kn_Ra.ottu;
+} reph_refer_3;
+
+lookup reph_refer_4 {
+    sub kn_Reph by kn_MatraRr;
+} reph_refer_4;
+
+lookup reph_refer_5 {
+    sub kn_AiLengthMark by kn_Ra.ottu;
+} reph_refer_5;
+
+lookup reph_refer_6 {
+    sub kn_Reph by kn_AiLengthMark;
+} reph_refer_6;
 
 ##--------------- Independent Lookups ---------------##
 
@@ -36,11 +56,10 @@ lookup akhn {
 #---- REPH ----
 
 lookup reph {
-    ignore sub [kn_Ra]' [kn_Halant]' [kn_Ka kn_Kha kn_Ga kn_Gha kn_Nga kn_Ca kn_Cha kn_Ja kn_Jha kn_Nya kn_Tta kn_Ttha kn_Dda kn_Ddha kn_Nna kn_Ta kn_Tha kn_Da kn_Dha kn_Na kn_Pa kn_Pha kn_Ba kn_Bha kn_Ma kn_Ya kn_Ra kn_Rra kn_La kn_Lla kn_Va kn_Sha kn_Ssa kn_Sa kn_Ha kn_Fa] ;
-    sub [kn_Ra]' lookup reph_refer [kn_Halant]' ;
+    sub kn_Ra kn_Halant by kn_Reph;
 } reph;
 
-#---- HALN/HALF ----
+#---- HALN HALF ----
 
 lookup haln_1 {
     sub kn_Ka kn_Halant by kn_Ka.halant;
@@ -152,6 +171,17 @@ lookup psts_8 {
     sub kn_Pha.base kn_MatraE.alt1 kn_MatraUu' by kn_MatraUu.alt1;
     sub kn_Va.base kn_MatraE.alt1 kn_MatraUu' by kn_MatraUu.alt1;
 } psts_8;
+
+lookup psts_9 {
+    sub @REPH_BACK1 [kn_Reph]'by kn_Ra.ottu;
+    sub @REPH_BACK2 @REPH_BACK3 [kn_Reph]' by kn_Ra.ottu;
+    sub @REPH_BACK1 [kn_MatraR]' lookup reph_refer_1 @REPH_INPUT1' lookup reph_refer_2;
+    sub @REPH_BACK1 [kn_MatraRr]' lookup reph_refer_3 @REPH_INPUT1' lookup reph_refer_4;
+    sub @REPH_BACK1 [kn_AiLengthMark]' lookup reph_refer_5 @REPH_INPUT1' lookup reph_refer_6;
+    sub @REPH_BACK2 @REPH_BACK3 [kn_MatraR]' lookup reph_refer_1 @REPH_INPUT1' lookup reph_refer_2;
+    sub @REPH_BACK2 @REPH_BACK3 [kn_MatraRr]' lookup reph_refer_3 @REPH_INPUT1' lookup reph_refer_4;
+    sub @REPH_BACK2 @REPH_BACK3 [kn_AiLengthMark]' lookup reph_refer_5 @REPH_INPUT1' lookup reph_refer_6;
+} psts_9;
 
 #---- BLWF ----
 
@@ -282,6 +312,7 @@ feature psts {
         lookup psts_6;
         lookup psts_7;
         lookup psts_8;
+        lookup psts_9;
     script knd2;
         lookup psts_1;
         lookup psts_2;
@@ -291,6 +322,7 @@ feature psts {
         lookup psts_6;
         lookup psts_7;
         lookup psts_8;
+        lookup psts_9;
 } psts;
 
 #-------------
