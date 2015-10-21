@@ -2727,6 +2727,14 @@ lookup kern_kannada {
     pos kn_GhAu kn_Sa.ottu <0 0 -80 0>;
     pos kn_GhAu kn_Ha.ottu <0 0 -80 0>;
     pos kn_GhAu kn_Fa.ottu <0 0 -80 0>;
+    pos kn_Reph kn_TI <0 0 -120 0>;
+    pos kn_Reph kn_NI <0 0 -120 0>;
+    pos kn_Reph kn_VI <0 0 -120 0>;
+    pos kn_Reph kn_GhI <0 0 -120 0>;
+    pos kn_Reph kn_PI <0 0 -120 0>;
+    pos kn_Reph kn_PhI <0 0 -120 0>;
+    pos kn_Reph kn_SsI <0 0 -120 0>;
+    pos kn_Reph kn_SI <0 0 -120 0>;
     pos kn_KSsa kn_Ta.ottu.AiLengthMark <0 0 320 0>;
     pos kn_KSsa kn_Ma.ottu.AiLengthMark <0 0 500 0>;
     pos kn_KSsa kn_Ta.ottu.MatraR <0 0 400 0>;

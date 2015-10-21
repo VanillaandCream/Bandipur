@@ -41657,7 +41657,7 @@ width = 1083;
 },
 {
 glyphname = kn_TI;
-lastChange = "2015-10-20 20:48:28 +0000";
+lastChange = "2015-10-21 00:25:57 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -42377,7 +42377,7 @@ width = 1040;
 },
 {
 glyphname = kn_NI;
-lastChange = "2015-10-05 18:23:10 +0000";
+lastChange = "2015-10-21 00:25:59 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -43633,7 +43633,7 @@ width = 959;
 },
 {
 glyphname = kn_VI;
-lastChange = "2015-10-05 18:23:01 +0000";
+lastChange = "2015-10-21 00:26:02 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -43901,7 +43901,7 @@ width = 929;
 },
 {
 glyphname = kn_GhI;
-lastChange = "2015-10-05 19:04:37 +0000";
+lastChange = "2015-10-21 00:26:05 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -44344,7 +44344,7 @@ width = 1163;
 },
 {
 glyphname = kn_PI;
-lastChange = "2015-10-05 19:04:29 +0000";
+lastChange = "2015-10-21 00:26:08 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -44520,7 +44520,7 @@ width = 1050;
 },
 {
 glyphname = kn_PhI;
-lastChange = "2015-10-12 19:34:56 +0000";
+lastChange = "2015-10-21 00:26:11 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -44943,7 +44943,7 @@ width = 1283;
 },
 {
 glyphname = kn_SsI;
-lastChange = "2015-10-20 20:45:59 +0000";
+lastChange = "2015-10-21 00:26:13 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -45132,7 +45132,7 @@ width = 1110;
 },
 {
 glyphname = kn_SI;
-lastChange = "2015-10-05 19:01:35 +0000";
+lastChange = "2015-10-21 00:26:16 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -50520,6 +50520,7 @@ kn_Ra = {
 kn_Ma.Ya.ottu = "-100";
 };
 kn_Ra.ottu = {
+kn_AiLengthMark = 60;
 kn_Ba.ottu = 500;
 kn_Bha.ottu = 500;
 kn_Ca.ottu = 520;
@@ -50542,6 +50543,8 @@ kn_Ma.Ya.ottu = 500;
 kn_Ma.ottu = 300;
 kn_Ma.ottu.AiLengthMark = 400;
 kn_Ma.ottu.MatraR = 460;
+kn_MatraR = 120;
+kn_MatraRr = 160;
 kn_Na.ottu = 300;
 kn_Nga.ottu = 520;
 kn_Nna.ottu = 600;
@@ -50562,9 +50565,6 @@ kn_Tta.ottu = 640;
 kn_Ttha.ottu = 480;
 kn_Va.ottu = 480;
 kn_Ya.ottu = 360;
-kn_MatraR = 120;
-kn_MatraRr = 160;
-kn_AiLengthMark = 60;
 };
 kn_Ra.ottu.alt1 = {
 kn_AiLengthMark = 140;
@@ -50591,6 +50591,7 @@ kn_Ma.ottu = 400;
 kn_Ma.ottu.AiLengthMark = 500;
 kn_Ma.ottu.MatraR = 460;
 kn_MatraR = 220;
+kn_MatraRr = 220;
 kn_Na.ottu = 400;
 kn_Nga.ottu = 520;
 kn_Nna.ottu = 640;
@@ -50611,7 +50612,6 @@ kn_Tta.ottu = 640;
 kn_Ttha.ottu = 480;
 kn_Va.ottu = 540;
 kn_Ya.ottu = 420;
-kn_MatraRr = 220;
 };
 kn_RrI = {
 kn_Ma.Ya.ottu = "-200";
@@ -51334,6 +51334,16 @@ kn_Ya.ottu = 420;
 space = {
 "@MMK_R_KS" = 640;
 kn_Ta.Ya.ottu = 200;
+};
+kn_Reph = {
+kn_TI = "-120";
+kn_NI = "-120";
+kn_VI = "-120";
+kn_GhI = "-120";
+kn_PI = "-120";
+kn_PhI = "-120";
+kn_SsI = "-120";
+kn_SI = "-120";
 };
 };
 };
