@@ -902,7 +902,7 @@ unicode = 004E;
 },
 {
 glyphname = space;
-lastChange = "2015-10-16 17:50:06 +0000";
+lastChange = "2015-10-21 10:42:58 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -24887,7 +24887,7 @@ width = 352;
 },
 {
 glyphname = kn_Ma.ottu.MatraR;
-lastChange = "2015-10-20 21:09:53 +0000";
+lastChange = "2015-10-21 10:39:03 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -30953,7 +30953,7 @@ width = 81;
 },
 {
 glyphname = kn_Ta.ottu;
-lastChange = "2015-10-20 21:12:57 +0000";
+lastChange = "2015-10-21 10:53:04 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -34407,7 +34407,7 @@ unicode = 0CEF;
 },
 {
 glyphname = kn_Nukta;
-lastChange = "2015-10-12 19:34:37 +0000";
+lastChange = "2015-10-21 10:47:27 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -34689,7 +34689,7 @@ unicode = 0CE3;
 },
 {
 glyphname = kn_Nukta.alt1;
-lastChange = "2015-10-12 19:34:56 +0000";
+lastChange = "2015-10-21 10:59:12 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -35474,7 +35474,7 @@ unicode = 0CC2;
 },
 {
 glyphname = kn_MatraR;
-lastChange = "2015-10-21 00:08:45 +0000";
+lastChange = "2015-10-21 10:47:01 +0000";
 layers = (
 {
 layerId = "7A0FC40B-77F8-4D14-AD08-D047673E78CB";
@@ -50623,6 +50623,10 @@ kn_Va.ottu = 540;
 kn_Ya.ottu = 420;
 };
 kn_Reph = {
+kn_DI = "-80";
+kn_DdI = "-80";
+kn_DdhI = "-80";
+kn_DhI = "-80";
 kn_GhI = "-120";
 kn_KI = "-100";
 kn_NI = "-120";
@@ -50631,12 +50635,8 @@ kn_PhI = "-120";
 kn_SI = "-120";
 kn_SsI = "-120";
 kn_TI = "-120";
-kn_VI = "-120";
-kn_DdI = "-80";
-kn_DdhI = "-80";
 kn_ThI = "-80";
-kn_DI = "-80";
-kn_DhI = "-80";
+kn_VI = "-120";
 };
 kn_RrI = {
 kn_Ma.Ya.ottu = "-200";
@@ -51359,6 +51359,106 @@ kn_Ya.ottu = 420;
 space = {
 "@MMK_R_KS" = 640;
 kn_Ta.Ya.ottu = 200;
+};
+kn_Nukta = {
+kn_Ta.ottu.AiLengthMark = 600;
+kn_Ma.ottu.AiLengthMark = 900;
+kn_Ta.ottu.MatraR = 600;
+kn_Ma.ottu.MatraR = 900;
+kn_Ra.ottu.alt1 = 300;
+kn_Ta.Ya.ottu = 900;
+kn_Ma.Ya.ottu = 1000;
+kn_Ka.ottu = 800;
+kn_Kha.ottu = 1000;
+kn_Ga.ottu = 800;
+kn_Gha.ottu = 1000;
+kn_Nga.ottu = 900;
+kn_Ca.ottu = 1000;
+kn_Cha.ottu = 1000;
+kn_Ja.ottu = 900;
+kn_Jha.ottu = 1000;
+kn_Nya.ottu = 1100;
+kn_Tta.ottu = 1000;
+kn_Ttha.ottu = 900;
+kn_Dda.ottu = 900;
+kn_Ddha.ottu = 900;
+kn_Nna.ottu = 1000;
+kn_Ta.ottu = 800;
+kn_Tha.ottu = 800;
+kn_Da.ottu = 800;
+kn_Dha.ottu = 800;
+kn_Na.ottu = 800;
+kn_Pa.ottu = 900;
+kn_Pha.ottu = 900;
+kn_Ba.ottu = 900;
+kn_Bha.ottu = 900;
+kn_Ma.ottu = 800;
+kn_Ya.ottu = 800;
+kn_Ra.ottu = 600;
+kn_Rra.ottu = 1000;
+kn_La.ottu = 1000;
+kn_Lla.ottu = 900;
+kn_Va.ottu = 900;
+kn_Sha.ottu = 800;
+kn_Ssa.ottu = 900;
+kn_Sa.ottu = 900;
+kn_Ha.ottu = 1000;
+kn_Fa.ottu = 1100;
+kn_MatraL = 960;
+kn_MatraLl = 960;
+kn_MatraR = 600;
+kn_MatraRr = 600;
+kn_AiLengthMark = 500;
+};
+kn_Nukta.alt1 = {
+kn_Ta.ottu.AiLengthMark = 700;
+kn_Ma.ottu.AiLengthMark = 1000;
+kn_Ta.ottu.MatraR = 700;
+kn_Ma.ottu.MatraR = 1100;
+kn_Ra.ottu.alt1 = 500;
+kn_Ta.Ya.ottu = 1000;
+kn_Ma.Ya.ottu = 1200;
+kn_Ka.ottu = 900;
+kn_Kha.ottu = 1200;
+kn_Ga.ottu = 900;
+kn_Gha.ottu = 1200;
+kn_Nga.ottu = 1100;
+kn_Ca.ottu = 1100;
+kn_Cha.ottu = 1200;
+kn_Ja.ottu = 1100;
+kn_Jha.ottu = 1200;
+kn_Nya.ottu = 1280;
+kn_Tta.ottu = 1200;
+kn_Ttha.ottu = 1000;
+kn_Dda.ottu = 1000;
+kn_Ddha.ottu = 1000;
+kn_Nna.ottu = 1200;
+kn_Ta.ottu = 900;
+kn_Tha.ottu = 1000;
+kn_Da.ottu = 1000;
+kn_Dha.ottu = 1000;
+kn_Na.ottu = 900;
+kn_Pa.ottu = 1100;
+kn_Pha.ottu = 1100;
+kn_Ba.ottu = 1100;
+kn_Bha.ottu = 1100;
+kn_Ma.ottu = 900;
+kn_Ya.ottu = 900;
+kn_Ra.ottu = 800;
+kn_Rra.ottu = 1200;
+kn_La.ottu = 1200;
+kn_Lla.ottu = 1100;
+kn_Va.ottu = 1100;
+kn_Sha.ottu = 900;
+kn_Ssa.ottu = 1000;
+kn_Sa.ottu = 1000;
+kn_Ha.ottu = 1200;
+kn_Fa.ottu = 1200;
+kn_MatraL = 1100;
+kn_MatraLl = 1100;
+kn_MatraR = 760;
+kn_MatraRr = 760;
+kn_AiLengthMark = 660;
 };
 };
 };

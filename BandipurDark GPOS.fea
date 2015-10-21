@@ -6,22 +6,123 @@ languagesystem knd2 dflt;
 
 ##--------------- Independent Lookups ---------------##
 
-
 #---- BLWM ----
 
 lookup blwm_1 {
     markClass kn_Nukta <anchor 0 0> @BLWM_1;
-
+    pos base kn_Ka <anchor 353 0> mark @BLWM_1;
+    pos base kn_Kha <anchor 574 0> mark @BLWM_1;
+    pos base kn_Ga <anchor 432 0> mark @BLWM_1;
+    pos base kn_Nga <anchor 510 0> mark @BLWM_1;
+    pos base kn_Ca <anchor 510 0> mark @BLWM_1;
     pos base kn_Ja <anchor 510 0> mark @BLWM_1;
+    pos base kn_Nya <anchor 510 -100> mark @BLWM_1;
+    pos base kn_Tta <anchor 510 0> mark @BLWM_1;
+    pos base kn_Ttha <anchor 466 0> mark @BLWM_1;
+    pos base kn_Dda <anchor 515 0> mark @BLWM_1;
+    pos base kn_Nna <anchor 554 0> mark @BLWM_1;
+    pos base kn_Ta <anchor 451 0> mark @BLWM_1;
+    pos base kn_Da <anchor 520 0> mark @BLWM_1;
+    pos base kn_Na <anchor 510 0> mark @BLWM_1;
+    pos base kn_Pa <anchor 510 0> mark @BLWM_1;
+    pos base kn_Ba <anchor 510 0> mark @BLWM_1;
+    pos base kn_Ma <anchor 495 0> mark @BLWM_1;
+    pos base kn_Ya <anchor 692 0> mark @BLWM_1;
+    pos base kn_Ra <anchor 446 0> mark @BLWM_1;
+    pos base kn_Rra <anchor 642 0> mark @BLWM_1;
+    pos base kn_La <anchor 510 0> mark @BLWM_1;
+    pos base kn_Lla <anchor 485 0> mark @BLWM_1;
+    pos base kn_Va <anchor 510 0> mark @BLWM_1;
+    pos base kn_Sha <anchor 446 0> mark @BLWM_1;
+    pos base kn_Ssa <anchor 510 0> mark @BLWM_1;
+    pos base kn_Sa <anchor 510 0> mark @BLWM_1;
+    pos base kn_Ha <anchor 544 0> mark @BLWM_1;
+    pos base kn_Fa <anchor 637 0> mark @BLWM_1;
+    pos base kn_Ga.base <anchor 427 0> mark @BLWM_1;
+    pos base kn_Ca.base <anchor 500 0> mark @BLWM_1;
+    pos base kn_Ttha.base <anchor 476 0> mark @BLWM_1;
+    pos base kn_Dda.base <anchor 510 0> mark @BLWM_1;
+    pos base kn_Ta.base <anchor 436 0> mark @BLWM_1;
+    pos base kn_Da.base <anchor 510 0> mark @BLWM_1;
+    pos base kn_Pa.base <anchor 510 0> mark @BLWM_1;
+    pos base kn_Ra.base <anchor 451 0> mark @BLWM_1;
+    pos base kn_Lla.base <anchor 485 0> mark @BLWM_1;
+    pos base kn_Va.base <anchor 510 0> mark @BLWM_1;
+    pos base kn_Na.base <anchor 510 0> mark @BLWM_1;
+    pos base kn_Sha.base <anchor 466 0> mark @BLWM_1;
+    pos base kn_Ssa.base <anchor 510 0> mark @BLWM_1;
+    pos base kn_Sa.base <anchor 510 0> mark @BLWM_1;
+    pos base kn_Ha.base <anchor 559 0> mark @BLWM_1;
+    pos base kn_Ka.halant <anchor 353 0> mark @BLWM_1;
+    pos base kn_Nya.halant <anchor 510 -100> mark @BLWM_1;
+    pos base kn_KAa <anchor 343 0> mark @BLWM_1;
+    pos base kn_NyAa <anchor 510 -100> mark @BLWM_1;
+    pos base kn_LlE <anchor 485 0> mark @BLWM_1;
+    pos base kn_KE <anchor 353 0> mark @BLWM_1;
+    pos base kn_NyE <anchor 510 -100> mark @BLWM_1;
+    pos base kn_TtE <anchor 530 0> mark @BLWM_1;
+    pos base kn_NyU <anchor 510 -100> mark @BLWM_1;
+    pos base kn_NyUu <anchor 510 -100> mark @BLWM_1;
+    pos base kn_NyO <anchor 510 -100> mark @BLWM_1;
+    pos base kn_KI <anchor 353 0> mark @BLWM_1;
+    pos base kn_KhI <anchor 598 0> mark @BLWM_1;
+    pos base kn_CI <anchor 510 0> mark @BLWM_1;
+    pos base kn_GI <anchor 436 0> mark @BLWM_1;
     pos base kn_JI <anchor 510 0> mark @BLWM_1;
+    pos base kn_TtI <anchor 510 0> mark @BLWM_1;
+    pos base kn_TthI <anchor 461 0> mark @BLWM_1;
+    pos base kn_DdI <anchor 510 0> mark @BLWM_1;
+    pos base kn_TI <anchor 432 0> mark @BLWM_1;
+    pos base kn_DI <anchor 510 0> mark @BLWM_1;
+    pos base kn_NI <anchor 510 0> mark @BLWM_1;
+    pos base kn_BI <anchor 510 0> mark @BLWM_1;
+    pos base kn_MI <anchor 495 0> mark @BLWM_1;
+    pos base kn_YI <anchor 692 0> mark @BLWM_1;
+    pos base kn_RI <anchor 456 0> mark @BLWM_1;
+    pos base kn_LI <anchor 510 0> mark @BLWM_1;
+    pos base kn_LlI <anchor 481 0> mark @BLWM_1;
+    pos base kn_VI <anchor 510 0> mark @BLWM_1;
+    pos base kn_ShI <anchor 466 0> mark @BLWM_1;
+    pos base kn_NnI <anchor 544 0> mark @BLWM_1;
+    pos base kn_PI <anchor 510 0> mark @BLWM_1;
+    pos base kn_RrI <anchor 642 0> mark @BLWM_1;
+    pos base kn_SsI <anchor 510 0> mark @BLWM_1;
+    pos base kn_SI <anchor 510 0> mark @BLWM_1;
+    pos base kn_HI <anchor 554 0> mark @BLWM_1;
+    pos base kn_FI <anchor 642 0> mark @BLWM_1;
+    pos base kn_KAu <anchor 353 0> mark @BLWM_1;
 } blwm_1;
 
 lookup blwm_2 {
     markClass kn_Nukta.alt1 <anchor 0 0> @BLWM_2;
 
+    pos base kn_Gha <anchor 510 0> mark @BLWM_2;
+    pos base kn_Cha <anchor 623 0> mark @BLWM_2;
+    pos base kn_Jha <anchor 1167 0> mark @BLWM_2;
+    pos base kn_Ddha <anchor 510 0> mark @BLWM_2;
+    pos base kn_Tha <anchor 505 0> mark @BLWM_2;
+    pos base kn_Dha <anchor 505 0> mark @BLWM_2;
     pos base kn_Pha <anchor 505 0> mark @BLWM_2;
+    pos base kn_Bha <anchor 480 0> mark @BLWM_2;
+    pos base kn_Cha.base <anchor 618 0> mark @BLWM_2;
+    pos base kn_Ddha.base <anchor 510 0> mark @BLWM_2;
+    pos base kn_Tha.base <anchor 505 0> mark @BLWM_2;
+    pos base kn_Dha.base <anchor 505 0> mark @BLWM_2;
     pos base kn_Pha.base <anchor 505 0> mark @BLWM_2;
+    pos base kn_Bha.base <anchor 480 0> mark @BLWM_2;
+    pos base kn_Gha.halant <anchor 505 -5> mark @BLWM_2;
+    pos base kn_GhAa <anchor 500 0> mark @BLWM_2;
+    pos base kn_GhE <anchor 505 0> mark @BLWM_2;
+    pos base kn_JhE <anchor 1177 0> mark @BLWM_2;
+    pos base kn_ChI <anchor 628 0> mark @BLWM_2;
+    pos base kn_JhI <anchor 1142 0> mark @BLWM_2;
+    pos base kn_DdhI <anchor 505 0> mark @BLWM_2;
+    pos base kn_ThI <anchor 505 0> mark @BLWM_2;
+    pos base kn_DhI <anchor 505 0> mark @BLWM_2;
+    pos base kn_BhI <anchor 505 0> mark @BLWM_2;
+    pos base kn_GhI <anchor 505 0> mark @BLWM_2;
     pos base kn_PhI <anchor 505 0> mark @BLWM_2;
+    pos base kn_GhAu <anchor 505 0> mark @BLWM_2;
 } blwm_2;
 
 #---- KERN ----

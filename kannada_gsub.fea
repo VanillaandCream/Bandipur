@@ -4,7 +4,7 @@
 @BASE_3 = [kn_Ga kn_Ca kn_Cha kn_Ttha kn_Dda kn_Ddha kn_Ta kn_Tha kn_Da kn_Dha kn_Na kn_Pa kn_Pha kn_Bha kn_Ra kn_Va kn_Sha kn_Ssa kn_Sa kn_Ha];
 @BASE_4 = [kn_Ga.base kn_Ca.base kn_Cha.base kn_Ttha.base kn_Dda.base kn_Ddha.base kn_Ta.base kn_Tha.base kn_Da.base kn_Dha.base kn_Na.base kn_Pa.base kn_Pha.base kn_Bha.base kn_Ra.base kn_Va.base kn_Sha.base kn_Ssa.base kn_Sa.base kn_Ha.base];
 @OTTU_1 = [kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Ra.ottu kn_Rra.ottu kn_La.ottu kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu kn_Fa.ottu];
-@NUKTA_1 = [kn_Pha kn_Pha.base kn_PhI];
+@NUKTA_1 = [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Bha kn_Cha.base kn_Ddha.base kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_Gha.halant kn_GhAa kn_GhE kn_JhE kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu];
 @NMATRAUS_1 = [kn_Pa kn_Pha kn_Va];
 @REPH_BACK1 = [kn_Ra kn_RI];
 @REPH_BACK2 = [kn_Ra.base];
