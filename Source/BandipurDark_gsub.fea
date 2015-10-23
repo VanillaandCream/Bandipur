@@ -247,6 +247,23 @@ lookup blws_2 {
 	sub @NUKTA_1 kn_Nukta' by kn_Nukta.alt1;
 } blws_2;
 
+#---- LIGA/DLIG ----
+
+lookup ligature_1 {
+    sub L I by L_I;
+    sub L O by L_O;
+    sub L A by L_A;
+    sub T E by T_E;
+    sub T I by T_I;
+    sub T O by T_O;
+    sub T A by T_A;
+} ligature_1;
+
+lookup ligature_2 {
+    sub I J by IJ;
+    sub i j by ij;
+} ligature_2;
+
 ##--------------- Lookups ---------------##
 
 feature akhn {
@@ -346,5 +363,21 @@ feature blws {
         lookup blws_1;
         lookup blws_2;
 } blws;
+
+#-------------
+
+feature dlig {
+    script latn ; 
+        lookup ligature_1;
+} dlig;
+
+#-------------
+
+feature liga {
+    script latn ; 
+    language NLD  ; 
+        lookup ligature_1;
+        lookup ligature_2;
+} liga;
 
 #-------------

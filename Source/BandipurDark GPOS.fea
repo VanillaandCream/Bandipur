@@ -3140,9 +3140,122 @@ lookup kern_kannada {
 } kern_kannada;
 
 lookup kern {
-    pos P A <0 0 -65 0>;
-    pos L T <0 0 -160 0>;
-    pos Y o <0 0 -99 0>;
+    pos L V <0 0 -75 0>;
+    pos L T <0 0 -128 0>;
+    pos Y o <0 0 -79 0>;
+    pos A V <0 0 -55 0>;
+    pos A T <0 0 -60 0>;
+    pos Aacute V <0 0 -55 0>;
+    pos Aacute T <0 0 -60 0>;
+    pos Abreve V <0 0 -55 0>;
+    pos Abreve T <0 0 -60 0>;
+    pos Acircumflex V <0 0 -55 0>;
+    pos Acircumflex T <0 0 -60 0>;
+    pos Agrave V <0 0 -55 0>;
+    pos Agrave T <0 0 -60 0>;
+    pos Adieresis V <0 0 -55 0>;
+    pos Adieresis T <0 0 -60 0>;
+    pos Amacron V <0 0 -55 0>;
+    pos Amacron T <0 0 -60 0>;
+    pos Aogonek V <0 0 -55 0>;
+    pos Aogonek T <0 0 -60 0>;
+    pos Aring V <0 0 -55 0>;
+    pos Aring T <0 0 -60 0>;
+    pos Atilde V <0 0 -55 0>;
+    pos Atilde T <0 0 -60 0>;
+    pos L.peq T <0 0 -128 0>;
+    pos Y.peq o <0 0 -79 0>;
+    pos Yacute o <0 0 -79 0>;
+    pos Ycircumflex o <0 0 -79 0>;
+    pos Ydieresis o <0 0 -79 0>;
+    pos Ygrave o <0 0 -79 0>;
+ subtable;
+    pos V O <0 0 -25 0>;
+    pos V A <0 0 -75 0>;
+    pos V Aacute <0 0 -75 0>;
+    pos V Abreve <0 0 -75 0>;
+    pos V Acircumflex <0 0 -75 0>;
+    pos V Agrave <0 0 -75 0>;
+    pos V Adieresis <0 0 -75 0>;
+    pos V Amacron <0 0 -75 0>;
+    pos V Aogonek <0 0 -75 0>;
+    pos V Aring <0 0 -75 0>;
+    pos V Atilde <0 0 -75 0>;
+    pos V AE <0 0 -85 0>;
+    pos V AEacute <0 0 -85 0>;
+    pos V Oacute <0 0 -25 0>;
+    pos V Obreve <0 0 -25 0>;
+    pos V Ocircumflex <0 0 -25 0>;
+    pos V Odieresis <0 0 -25 0>;
+    pos V Ograve <0 0 -25 0>;
+    pos V Ohungarumlaut <0 0 -25 0>;
+    pos V Omacron <0 0 -25 0>;
+    pos V Otilde <0 0 -25 0>;
+    pos V Oslash <0 0 -25 0>;
+    pos V Oslashacute <0 0 -25 0>;
+    pos P A <0 0 -52 0>;
+    pos P Aacute <0 0 -52 0>;
+    pos P Abreve <0 0 -52 0>;
+    pos P Acircumflex <0 0 -52 0>;
+    pos P Agrave <0 0 -52 0>;
+    pos P Adieresis <0 0 -52 0>;
+    pos P Amacron <0 0 -52 0>;
+    pos P Aogonek <0 0 -52 0>;
+    pos P Aring <0 0 -52 0>;
+    pos P Atilde <0 0 -52 0>;
+    pos P AE <0 0 -85 0>;
+    pos P AEacute <0 0 -85 0>;
+    pos F A <0 0 -75 0>;
+    pos F Aacute <0 0 -75 0>;
+    pos F Abreve <0 0 -75 0>;
+    pos F Acircumflex <0 0 -75 0>;
+    pos F Agrave <0 0 -75 0>;
+    pos F Adieresis <0 0 -75 0>;
+    pos F Amacron <0 0 -75 0>;
+    pos F Aogonek <0 0 -75 0>;
+    pos F Aring <0 0 -75 0>;
+    pos F Atilde <0 0 -75 0>;
+    pos F AE <0 0 -100 0>;
+    pos F AEacute <0 0 -100 0>;
+    pos L W <0 0 -65 0>;
+    pos L Y <0 0 -120 0>;
+    pos L Wacute <0 0 -65 0>;
+    pos L Wcircumflex <0 0 -65 0>;
+    pos L Wdieresis <0 0 -65 0>;
+    pos L Wgrave <0 0 -65 0>;
+    pos L Yacute <0 0 -120 0>;
+    pos L Ycircumflex <0 0 -120 0>;
+    pos L Ydieresis <0 0 -120 0>;
+    pos L Ygrave <0 0 -120 0>;
+    pos T A <0 0 -70 0>;
+    pos T Aacute <0 0 -70 0>;
+    pos T Abreve <0 0 -70 0>;
+    pos T Acircumflex <0 0 -70 0>;
+    pos T Agrave <0 0 -70 0>;
+    pos T Adieresis <0 0 -70 0>;
+    pos T Amacron <0 0 -70 0>;
+    pos T Aogonek <0 0 -70 0>;
+    pos T Aring <0 0 -70 0>;
+    pos T Atilde <0 0 -70 0>;
+    pos T AE <0 0 -95 0>;
+    pos T AEacute <0 0 -95 0>;
+ subtable;
+    pos [A Aacute Abreve Acircumflex Agrave Adieresis Amacron Aogonek Aring Atilde]
+        [Y Yacute Ycircumflex Ydieresis Ygrave] <0 0 -70 0>;
+    pos [A Aacute Abreve Acircumflex Agrave Adieresis Amacron Aogonek Aring Atilde]
+        [W Wacute Wcircumflex Wdieresis Wgrave] <0 0 -45 0>;
+    pos [O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde Oslash Oslashacute]
+        [AE AEacute] <0 0 -35 0>;
+    pos [W Wacute Wcircumflex Wdieresis Wgrave]
+        [AE AEacute] <0 0 -75 0>;
+    pos [W Wacute Wcircumflex Wdieresis Wgrave]
+        [A Aacute Abreve Acircumflex Agrave Adieresis Amacron Aogonek Aring Atilde] <0 0 -55 0>;
+    pos [Y Yacute Ycircumflex Ydieresis Ygrave]
+        [AE AEacute] <0 0 -125 0>;
+    pos [Y Yacute Ycircumflex Ydieresis Ygrave]
+        [A Aacute Abreve Acircumflex Agrave Adieresis Amacron Aogonek Aring Atilde] <0 0 -90 0>;
+    pos [Y Yacute Ycircumflex Ydieresis Ygrave]
+        [O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde Oslash Oslashacute] <0 0 -45 0>;
 } kern;
 
 ##--------------- Lookups ---------------##
