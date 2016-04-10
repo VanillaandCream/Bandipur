@@ -62,15 +62,19 @@ lookup reph {
 #---- HALN HALF ----
 
 lookup haln_1 {
+    lookupflag IgnoreMarks;
     sub kn_Ka kn_Halant by kn_Ka.halant;
     sub kn_Gha kn_Halant by kn_Gha.halant;
     sub kn_Nya kn_Halant by kn_Nya.halant;
     sub kn_KSsa kn_Halant by kn_KSsa.halant;
+    lookupflag 0;
 } haln_1;
 
 lookup haln_2 {
+    lookupflag IgnoreMarks;
     sub @BASE_1' kn_Halant by @BASE_2;
     sub @BASE_2 kn_Halant' by kn_Halant.alt1;
+    lookupflag 0;
 } haln_2;
 
 #---- ABVS ----
@@ -83,6 +87,8 @@ lookup abvs_1 {
     sub kn_Tta kn_MatraE by kn_TtE;
     sub kn_Lla kn_MatraE by kn_LlE;
     sub kn_KSsa kn_MatraE by kn_KSsE;
+    sub kn_Ma kn_MatraE by kn_ME;
+    sub kn_Ya kn_MatraE by kn_YE;
 } abvs_1;
 
 lookup abvs_2 {

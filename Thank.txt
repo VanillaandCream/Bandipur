@@ -1,2 +1,5 @@
-Thank Vaishnavi Murthy for feedback on the Kannada.
-Pria
+Bandipur is a Unicode-compliant Kannada and Latin display typeface. It is a collaborative effort between designers John Vargas Beltrán and Pria Ravichandran. As the design is reminiscent of a feral nature, Bandipur is named after the dry deciduous forest located in the state of Karnataka. 
+
+Many thanks to Vaishnavi Murthy for her extensive feedback on this typeface.
+
+Feel free to make any changes.

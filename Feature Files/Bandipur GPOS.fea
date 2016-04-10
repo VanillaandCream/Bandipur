@@ -128,3015 +128,626 @@ lookup blwm_2 {
 #---- KERN ----
 
 lookup kern_kannada {
-    pos kn_Kha kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Ga kn_Ma.Ya.ottu <0 0 -100 0>;
-    pos kn_Nga kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Ca kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Cha kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_Cha kn_Ta.Ya.ottu <0 0 100 0>;
-    pos kn_Cha kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_Cha kn_Kha.ottu <0 0 100 0>;
-    pos kn_Cha kn_Gha.ottu <0 0 30 0>;
-    pos kn_Cha kn_Nga.ottu <0 0 80 0>;
-    pos kn_Cha kn_Ca.ottu <0 0 120 0>;
-    pos kn_Cha kn_Cha.ottu <0 0 100 0>;
-    pos kn_Cha kn_Ja.ottu <0 0 80 0>;
-    pos kn_Cha kn_Jha.ottu <0 0 120 0>;
-    pos kn_Cha kn_Tta.ottu <0 0 100 0>;
-    pos kn_Cha kn_Nna.ottu <0 0 100 0>;
-    pos kn_Cha kn_Pa.ottu <0 0 40 0>;
-    pos kn_Cha kn_Pha.ottu <0 0 40 0>;
-    pos kn_Cha kn_Ba.ottu <0 0 100 0>;
-    pos kn_Cha kn_Bha.ottu <0 0 100 0>;
-    pos kn_Cha kn_Rra.ottu <0 0 140 0>;
-    pos kn_Cha kn_La.ottu <0 0 120 0>;
-    pos kn_Cha kn_Lla.ottu <0 0 80 0>;
-    pos kn_Cha kn_Ssa.ottu <0 0 40 0>;
-    pos kn_Cha kn_Ha.ottu <0 0 140 0>;
-    pos kn_Cha kn_Fa.ottu <0 0 140 0>;
-    pos kn_Ja kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Jha kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_Jha kn_Ta.Ya.ottu <0 0 100 0>;
-    pos kn_Jha kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_Jha kn_Kha.ottu <0 0 100 0>;
-    pos kn_Jha kn_Gha.ottu <0 0 50 0>;
-    pos kn_Jha kn_Nga.ottu <0 0 100 0>;
-    pos kn_Jha kn_Ca.ottu <0 0 140 0>;
-    pos kn_Jha kn_Cha.ottu <0 0 120 0>;
-    pos kn_Jha kn_Ja.ottu <0 0 100 0>;
-    pos kn_Jha kn_Jha.ottu <0 0 140 0>;
-    pos kn_Jha kn_Tta.ottu <0 0 100 0>;
-    pos kn_Jha kn_Nna.ottu <0 0 100 0>;
-    pos kn_Jha kn_Pa.ottu <0 0 40 0>;
-    pos kn_Jha kn_Pha.ottu <0 0 40 0>;
-    pos kn_Jha kn_Ba.ottu <0 0 120 0>;
-    pos kn_Jha kn_Bha.ottu <0 0 120 0>;
-    pos kn_Jha kn_Rra.ottu <0 0 140 0>;
-    pos kn_Jha kn_La.ottu <0 0 120 0>;
-    pos kn_Jha kn_Lla.ottu <0 0 80 0>;
-    pos kn_Jha kn_Ssa.ottu <0 0 40 0>;
-    pos kn_Jha kn_Ha.ottu <0 0 140 0>;
-    pos kn_Jha kn_Fa.ottu <0 0 140 0>;
-    pos kn_Nya kn_Ma.ottu.AiLengthMark <0 0 -140 0>;
-    pos kn_Nya kn_Ma.ottu.MatraR <0 0 -140 0>;
-    pos kn_Nya kn_Ta.Ya.ottu <0 0 100 0>;
-    pos kn_Nya kn_Ma.Ya.ottu <0 0 -120 0>;
-    pos kn_Nya kn_Ka.ottu <0 0 20 0>;
-    pos kn_Nya kn_Nga.ottu <0 0 80 0>;
-    pos kn_Nya kn_Ca.ottu <0 0 40 0>;
-    pos kn_Nya kn_Ja.ottu <0 0 100 0>;
-    pos kn_Nya kn_Nna.ottu <0 0 30 0>;
-    pos kn_Nya kn_Ba.ottu <0 0 40 0>;
-    pos kn_Nya kn_Bha.ottu <0 0 40 0>;
-    pos kn_Nya kn_Ra.ottu <0 0 -236 0>;
-    pos kn_Nya kn_Rra.ottu <0 0 50 0>;
-    pos kn_Nya kn_MatraL <0 0 -40 0>;
-    pos kn_Nya kn_MatraLl <0 0 -40 0>;
-    pos kn_Nya kn_MatraR <0 0 -120 0>;
-    pos kn_Nya kn_MatraRr <0 0 -120 0>;
-    pos kn_Nya kn_AiLengthMark <0 0 -100 0>;
-    pos kn_Tta kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Ttha kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Dda kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Ddha kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_Ddha kn_Ta.Ya.ottu <0 0 100 0>;
-    pos kn_Ddha kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_Ddha kn_Kha.ottu <0 0 100 0>;
-    pos kn_Ddha kn_Gha.ottu <0 0 50 0>;
-    pos kn_Ddha kn_Nga.ottu <0 0 100 0>;
-    pos kn_Ddha kn_Ca.ottu <0 0 120 0>;
-    pos kn_Ddha kn_Cha.ottu <0 0 120 0>;
-    pos kn_Ddha kn_Ja.ottu <0 0 80 0>;
-    pos kn_Ddha kn_Jha.ottu <0 0 140 0>;
-    pos kn_Ddha kn_Tta.ottu <0 0 100 0>;
-    pos kn_Ddha kn_Nna.ottu <0 0 100 0>;
-    pos kn_Ddha kn_Pa.ottu <0 0 40 0>;
-    pos kn_Ddha kn_Pha.ottu <0 0 40 0>;
-    pos kn_Ddha kn_Ba.ottu <0 0 120 0>;
-    pos kn_Ddha kn_Bha.ottu <0 0 120 0>;
-    pos kn_Ddha kn_Rra.ottu <0 0 140 0>;
-    pos kn_Ddha kn_La.ottu <0 0 120 0>;
-    pos kn_Ddha kn_Lla.ottu <0 0 80 0>;
-    pos kn_Ddha kn_Ssa.ottu <0 0 40 0>;
-    pos kn_Ddha kn_Ha.ottu <0 0 140 0>;
-    pos kn_Ddha kn_Fa.ottu <0 0 140 0>;
-    pos kn_Nna kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Ta kn_Ma.Ya.ottu <0 0 -160 0>;
-    pos kn_Tha kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_Tha kn_Ta.Ya.ottu <0 0 140 0>;
-    pos kn_Tha kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_Tha kn_Kha.ottu <0 0 140 0>;
-    pos kn_Tha kn_Gha.ottu <0 0 80 0>;
-    pos kn_Tha kn_Nga.ottu <0 0 120 0>;
-    pos kn_Tha kn_Ca.ottu <0 0 160 0>;
-    pos kn_Tha kn_Cha.ottu <0 0 120 0>;
-    pos kn_Tha kn_Ja.ottu <0 0 140 0>;
-    pos kn_Tha kn_Jha.ottu <0 0 140 0>;
-    pos kn_Tha kn_Tta.ottu <0 0 120 0>;
-    pos kn_Tha kn_Nna.ottu <0 0 100 0>;
-    pos kn_Tha kn_Pa.ottu <0 0 40 0>;
-    pos kn_Tha kn_Pha.ottu <0 0 40 0>;
-    pos kn_Tha kn_Ba.ottu <0 0 140 0>;
-    pos kn_Tha kn_Bha.ottu <0 0 140 0>;
-    pos kn_Tha kn_Rra.ottu <0 0 140 0>;
-    pos kn_Tha kn_La.ottu <0 0 120 0>;
-    pos kn_Tha kn_Lla.ottu <0 0 80 0>;
-    pos kn_Tha kn_Ssa.ottu <0 0 40 0>;
-    pos kn_Tha kn_Ha.ottu <0 0 140 0>;
-    pos kn_Tha kn_Fa.ottu <0 0 140 0>;
-    pos kn_Da kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Dha kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_Dha kn_Ta.Ya.ottu <0 0 140 0>;
-    pos kn_Dha kn_Ma.Ya.ottu <0 0 180 0>;
-    pos kn_Dha kn_Kha.ottu <0 0 140 0>;
-    pos kn_Dha kn_Gha.ottu <0 0 80 0>;
-    pos kn_Dha kn_Nga.ottu <0 0 120 0>;
-    pos kn_Dha kn_Ca.ottu <0 0 160 0>;
-    pos kn_Dha kn_Cha.ottu <0 0 120 0>;
-    pos kn_Dha kn_Ja.ottu <0 0 140 0>;
-    pos kn_Dha kn_Jha.ottu <0 0 140 0>;
-    pos kn_Dha kn_Tta.ottu <0 0 120 0>;
-    pos kn_Dha kn_Nna.ottu <0 0 100 0>;
-    pos kn_Dha kn_Pa.ottu <0 0 40 0>;
-    pos kn_Dha kn_Pha.ottu <0 0 40 0>;
-    pos kn_Dha kn_Ba.ottu <0 0 140 0>;
-    pos kn_Dha kn_Bha.ottu <0 0 140 0>;
-    pos kn_Dha kn_Rra.ottu <0 0 140 0>;
-    pos kn_Dha kn_La.ottu <0 0 120 0>;
-    pos kn_Dha kn_Lla.ottu <0 0 80 0>;
-    pos kn_Dha kn_Ssa.ottu <0 0 40 0>;
-    pos kn_Dha kn_Ha.ottu <0 0 140 0>;
-    pos kn_Dha kn_Fa.ottu <0 0 140 0>;
-    pos kn_Na kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Pa kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Pha kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_Pha kn_Ta.Ya.ottu <0 0 100 0>;
-    pos kn_Pha kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_Pha kn_Kha.ottu <0 0 140 0>;
-    pos kn_Pha kn_Gha.ottu <0 0 80 0>;
-    pos kn_Pha kn_Nga.ottu <0 0 120 0>;
-    pos kn_Pha kn_Ca.ottu <0 0 160 0>;
-    pos kn_Pha kn_Cha.ottu <0 0 120 0>;
-    pos kn_Pha kn_Ja.ottu <0 0 140 0>;
-    pos kn_Pha kn_Jha.ottu <0 0 140 0>;
-    pos kn_Pha kn_Tta.ottu <0 0 120 0>;
-    pos kn_Pha kn_Nna.ottu <0 0 100 0>;
-    pos kn_Pha kn_Pa.ottu <0 0 40 0>;
-    pos kn_Pha kn_Pha.ottu <0 0 40 0>;
-    pos kn_Pha kn_Ba.ottu <0 0 140 0>;
-    pos kn_Pha kn_Bha.ottu <0 0 140 0>;
-    pos kn_Pha kn_Rra.ottu <0 0 140 0>;
-    pos kn_Pha kn_La.ottu <0 0 120 0>;
-    pos kn_Pha kn_Lla.ottu <0 0 80 0>;
-    pos kn_Pha kn_Ssa.ottu <0 0 40 0>;
-    pos kn_Pha kn_Ha.ottu <0 0 140 0>;
-    pos kn_Pha kn_Fa.ottu <0 0 140 0>;
-    pos kn_Ba kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Bha kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_Bha kn_Ta.Ya.ottu <0 0 100 0>;
-    pos kn_Bha kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_Bha kn_Kha.ottu <0 0 140 0>;
-    pos kn_Bha kn_Gha.ottu <0 0 60 0>;
-    pos kn_Bha kn_Nga.ottu <0 0 120 0>;
-    pos kn_Bha kn_Ca.ottu <0 0 160 0>;
-    pos kn_Bha kn_Cha.ottu <0 0 120 0>;
-    pos kn_Bha kn_Ja.ottu <0 0 140 0>;
-    pos kn_Bha kn_Jha.ottu <0 0 140 0>;
-    pos kn_Bha kn_Tta.ottu <0 0 100 0>;
-    pos kn_Bha kn_Nna.ottu <0 0 100 0>;
-    pos kn_Bha kn_Pa.ottu <0 0 40 0>;
-    pos kn_Bha kn_Pha.ottu <0 0 40 0>;
-    pos kn_Bha kn_Ba.ottu <0 0 140 0>;
-    pos kn_Bha kn_Bha.ottu <0 0 140 0>;
-    pos kn_Bha kn_Rra.ottu <0 0 140 0>;
-    pos kn_Bha kn_La.ottu <0 0 120 0>;
-    pos kn_Bha kn_Lla.ottu <0 0 80 0>;
-    pos kn_Bha kn_Ssa.ottu <0 0 40 0>;
-    pos kn_Bha kn_Ha.ottu <0 0 140 0>;
-    pos kn_Bha kn_Fa.ottu <0 0 140 0>;
-    pos kn_Ma kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Ya kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Ra kn_Ma.Ya.ottu <0 0 -100 0>;
-    pos kn_Rra kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_La kn_Ma.Ya.ottu <0 0 -140 0>;
-    pos kn_Lla kn_Ma.Ya.ottu <0 0 -100 0>;
-    pos kn_Lla kn_MatraR <0 0 -40 0>;
-    pos kn_Lla kn_MatraRr <0 0 -40 0>;
-    pos kn_Va kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Sha kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Ssa kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_Ssa kn_Ta.Ya.ottu <0 0 140 0>;
-    pos kn_Ssa kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_Ssa kn_Ka.ottu <0 0 80 0>;
-    pos kn_Ssa kn_Kha.ottu <0 0 140 0>;
-    pos kn_Ssa kn_Gha.ottu <0 0 100 0>;
-    pos kn_Ssa kn_Nga.ottu <0 0 120 0>;
-    pos kn_Ssa kn_Ja.ottu <0 0 140 0>;
-    pos kn_Ssa kn_Jha.ottu <0 0 140 0>;
-    pos kn_Ssa kn_Na.ottu <0 0 40 0>;
-    pos kn_Ssa kn_Pa.ottu <0 0 80 0>;
-    pos kn_Ssa kn_Pha.ottu <0 0 80 0>;
-    pos kn_Ssa kn_Ma.ottu <0 0 100 0>;
-    pos kn_Ssa kn_Ya.ottu <0 0 140 0>;
-    pos kn_Ssa kn_Rra.ottu <0 0 220 0>;
-    pos kn_Ssa kn_La.ottu <0 0 120 0>;
-    pos kn_Ssa kn_Lla.ottu <0 0 80 0>;
-    pos kn_Ssa kn_Ssa.ottu <0 0 80 0>;
-    pos kn_Ssa kn_Sa.ottu <0 0 80 0>;
-    pos kn_Ssa kn_Fa.ottu <0 0 200 0>;
-    pos kn_Ssa kn_MatraL <0 0 80 0>;
-    pos kn_Ssa kn_MatraLl <0 0 80 0>;
-    pos kn_Ssa kn_MatraR <0 0 20 0>;
-    pos kn_Ssa kn_MatraRr <0 0 20 0>;
-    pos kn_Sa kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Ha kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Fa kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ta.ottu.AiLengthMark <0 0 300 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ta.ottu.MatraR <0 0 300 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Da.ottu <0 0 500 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Na.ottu <0 0 400 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_La.ottu <0 0 640 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Va.ottu <0 0 540 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ta.ottu.AiLengthMark kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ta.ottu.AiLengthMark <0 0 300 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR <0 0 300 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Da.ottu <0 0 500 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Na.ottu <0 0 400 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_La.ottu <0 0 640 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Va.ottu <0 0 540 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ma.ottu.AiLengthMark kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ta.ottu.MatraR kn_Ta.ottu.AiLengthMark <0 0 300 0>;
-    pos kn_Ta.ottu.MatraR kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ta.ottu.MatraR kn_Ta.ottu.MatraR <0 0 300 0>;
-    pos kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ta.ottu.MatraR kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ta.ottu.MatraR kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ta.ottu.MatraR kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ta.ottu.MatraR kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ta.ottu.MatraR kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ta.ottu.MatraR kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ta.ottu.MatraR kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ta.ottu.MatraR kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ta.ottu.MatraR kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ta.ottu.MatraR kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ta.ottu.MatraR kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ta.ottu.MatraR kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ta.ottu.MatraR kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ta.ottu.MatraR kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ta.ottu.MatraR kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ta.ottu.MatraR kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ta.ottu.MatraR kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ta.ottu.MatraR kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ta.ottu.MatraR kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ta.ottu.MatraR kn_Da.ottu <0 0 500 0>;
-    pos kn_Ta.ottu.MatraR kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ta.ottu.MatraR kn_Na.ottu <0 0 400 0>;
-    pos kn_Ta.ottu.MatraR kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ta.ottu.MatraR kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ta.ottu.MatraR kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ta.ottu.MatraR kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ta.ottu.MatraR kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ta.ottu.MatraR kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ta.ottu.MatraR kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ta.ottu.MatraR kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ta.ottu.MatraR kn_La.ottu <0 0 640 0>;
-    pos kn_Ta.ottu.MatraR kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ta.ottu.MatraR kn_Va.ottu <0 0 540 0>;
-    pos kn_Ta.ottu.MatraR kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ta.ottu.MatraR kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ta.ottu.MatraR kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ta.ottu.MatraR kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ta.ottu.MatraR kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ma.ottu.MatraR kn_Ta.ottu.AiLengthMark <0 0 300 0>;
-    pos kn_Ma.ottu.MatraR kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ma.ottu.MatraR kn_Ta.ottu.MatraR <0 0 300 0>;
-    pos kn_Ma.ottu.MatraR kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ma.ottu.MatraR kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ma.ottu.MatraR kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ma.ottu.MatraR kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ma.ottu.MatraR kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ma.ottu.MatraR kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ma.ottu.MatraR kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ma.ottu.MatraR kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ma.ottu.MatraR kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ma.ottu.MatraR kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ma.ottu.MatraR kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ma.ottu.MatraR kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ma.ottu.MatraR kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ma.ottu.MatraR kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ma.ottu.MatraR kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ma.ottu.MatraR kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ma.ottu.MatraR kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ma.ottu.MatraR kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ma.ottu.MatraR kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ma.ottu.MatraR kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ma.ottu.MatraR kn_Da.ottu <0 0 500 0>;
-    pos kn_Ma.ottu.MatraR kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ma.ottu.MatraR kn_Na.ottu <0 0 400 0>;
-    pos kn_Ma.ottu.MatraR kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ma.ottu.MatraR kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ma.ottu.MatraR kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ma.ottu.MatraR kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ma.ottu.MatraR kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ma.ottu.MatraR kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ma.ottu.MatraR kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ma.ottu.MatraR kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ma.ottu.MatraR kn_La.ottu <0 0 640 0>;
-    pos kn_Ma.ottu.MatraR kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ma.ottu.MatraR kn_Va.ottu <0 0 540 0>;
-    pos kn_Ma.ottu.MatraR kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ma.ottu.MatraR kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ma.ottu.MatraR kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ma.ottu.MatraR kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ma.ottu.MatraR kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ra.ottu.alt1 kn_Ta.ottu.AiLengthMark <0 0 300 0>;
-    pos kn_Ra.ottu.alt1 kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ra.ottu.alt1 kn_Ta.ottu.MatraR <0 0 300 0>;
-    pos kn_Ra.ottu.alt1 kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ra.ottu.alt1 kn_Ra.ottu.alt1 <0 0 120 0>;
-    pos kn_Ra.ottu.alt1 kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ra.ottu.alt1 kn_Ma.Ya.ottu <0 0 600 0>;
-    pos kn_Ra.ottu.alt1 kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ra.ottu.alt1 kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ra.ottu.alt1 kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ra.ottu.alt1 kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ra.ottu.alt1 kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ra.ottu.alt1 kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ra.ottu.alt1 kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ra.ottu.alt1 kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ra.ottu.alt1 kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ra.ottu.alt1 kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ra.ottu.alt1 kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ra.ottu.alt1 kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ra.ottu.alt1 kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ra.ottu.alt1 kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ra.ottu.alt1 kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ra.ottu.alt1 kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ra.ottu.alt1 kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ra.ottu.alt1 kn_Da.ottu <0 0 500 0>;
-    pos kn_Ra.ottu.alt1 kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ra.ottu.alt1 kn_Na.ottu <0 0 400 0>;
-    pos kn_Ra.ottu.alt1 kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ra.ottu.alt1 kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ra.ottu.alt1 kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ra.ottu.alt1 kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ra.ottu.alt1 kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ra.ottu.alt1 kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ra.ottu.alt1 kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ra.ottu.alt1 kn_La.ottu <0 0 640 0>;
-    pos kn_Ra.ottu.alt1 kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ra.ottu.alt1 kn_Va.ottu <0 0 540 0>;
-    pos kn_Ra.ottu.alt1 kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ra.ottu.alt1 kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ra.ottu.alt1 kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ra.ottu.alt1 kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ra.ottu.alt1 kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ra.ottu.alt1 kn_MatraR <0 0 220 0>;
-    pos kn_Ra.ottu.alt1 kn_MatraRr <0 0 220 0>;
-    pos kn_Ra.ottu.alt1 kn_AiLengthMark <0 0 140 0>;
-    pos kn_Ka.halant kn_Ta.Ya.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ma.Ya.ottu <0 0 -300 0>;
-    pos kn_Ka.halant kn_Ka.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Kha.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ga.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Gha.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Nga.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ca.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Cha.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ja.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Jha.ottu <0 0 -200 0>;
-    pos kn_Ka.halant kn_Nya.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Tta.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ttha.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Dda.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ddha.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Nna.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ta.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Tha.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Da.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Dha.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Na.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Pa.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Pha.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ba.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Bha.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ma.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ya.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ra.ottu <0 0 -280 0>;
-    pos kn_Ka.halant kn_Rra.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_La.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Lla.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Va.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Sha.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ssa.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Sa.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Ha.ottu <0 0 -80 0>;
-    pos kn_Ka.halant kn_Fa.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ta.Ya.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Gha.halant kn_Ka.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Kha.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ga.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Gha.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Nga.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ca.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Cha.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ja.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Jha.ottu <0 0 -280 0>;
-    pos kn_Gha.halant kn_Nya.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Tta.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ttha.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Dda.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ddha.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Nna.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ta.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Tha.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Da.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Dha.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Na.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Pa.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Pha.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ba.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Bha.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ma.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ya.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ra.ottu <0 0 -280 0>;
-    pos kn_Gha.halant kn_Rra.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_La.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Lla.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Va.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Sha.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ssa.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Sa.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Ha.ottu <0 0 -80 0>;
-    pos kn_Gha.halant kn_Fa.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ta.Ya.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Nya.halant kn_Ka.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Kha.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ga.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Gha.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Nga.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ca.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Cha.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ja.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Jha.ottu <0 0 -200 0>;
-    pos kn_Nya.halant kn_Nya.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Tta.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ttha.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Dda.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ddha.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Nna.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ta.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Tha.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Da.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Dha.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Na.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Pa.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Pha.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ba.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Bha.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ma.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ya.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ra.ottu <0 0 -280 0>;
-    pos kn_Nya.halant kn_Rra.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_La.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Lla.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Va.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Sha.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ssa.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Sa.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Ha.ottu <0 0 -80 0>;
-    pos kn_Nya.halant kn_Fa.ottu <0 0 -80 0>;
-    pos kn_Ta.Ya.ottu kn_Ta.ottu.AiLengthMark <0 0 300 0>;
-    pos kn_Ta.Ya.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ta.Ya.ottu kn_Ta.ottu.MatraR <0 0 300 0>;
-    pos kn_Ta.Ya.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ta.Ya.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ta.Ya.ottu kn_Ma.Ya.ottu <0 0 700 0>;
-    pos kn_Ta.Ya.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ta.Ya.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ta.Ya.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ta.Ya.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ta.Ya.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ta.Ya.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ta.Ya.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ta.Ya.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ta.Ya.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ta.Ya.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ta.Ya.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ta.Ya.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ta.Ya.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ta.Ya.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ta.Ya.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ta.Ya.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ta.Ya.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ta.Ya.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ta.Ya.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ta.Ya.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ta.Ya.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ta.Ya.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ta.Ya.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ta.Ya.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ta.Ya.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ta.Ya.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ta.Ya.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ta.Ya.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ta.Ya.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ta.Ya.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ta.Ya.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ta.Ya.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ta.Ya.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ta.Ya.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ta.Ya.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ta.Ya.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ma.Ya.ottu kn_Ta.ottu.AiLengthMark <0 0 300 0>;
-    pos kn_Ma.Ya.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ma.Ya.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ma.Ya.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ma.Ya.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ma.Ya.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ma.Ya.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ma.Ya.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ma.Ya.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ma.Ya.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ma.Ya.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ma.Ya.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ma.Ya.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ma.Ya.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ma.Ya.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ma.Ya.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ma.Ya.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ma.Ya.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ma.Ya.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ma.Ya.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ma.Ya.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ma.Ya.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ma.Ya.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ma.Ya.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ma.Ya.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ma.Ya.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ma.Ya.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ma.Ya.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ma.Ya.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ma.Ya.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ma.Ya.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ma.Ya.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ma.Ya.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ma.Ya.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ma.Ya.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ma.Ya.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ma.Ya.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ma.Ya.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ma.Ya.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ma.Ya.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ma.Ya.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ma.Ya.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ka.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ka.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ka.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ka.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ka.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ka.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ka.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ka.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ka.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ka.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ka.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ka.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ka.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ka.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ka.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ka.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ka.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ka.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ka.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ka.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ka.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ka.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ka.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ka.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ka.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ka.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ka.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ka.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ka.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ka.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ka.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ka.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ka.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ka.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ka.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ka.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ka.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ka.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ka.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ka.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ka.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ka.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Kha.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Kha.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Kha.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Kha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Kha.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Kha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Kha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Kha.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Kha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Kha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Kha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Kha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Kha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Kha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Kha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Kha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Kha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Kha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Kha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Kha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Kha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Kha.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Kha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Kha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Kha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Kha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Kha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Kha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Kha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Kha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Kha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Kha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Kha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Kha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Kha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Kha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Kha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Kha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Kha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Kha.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Kha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Kha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ga.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ga.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ga.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ga.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ga.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ga.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ga.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ga.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ga.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ga.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ga.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ga.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ga.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ga.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ga.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ga.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ga.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ga.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ga.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ga.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ga.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ga.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ga.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ga.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ga.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ga.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ga.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ga.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ga.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ga.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ga.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ga.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ga.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ga.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ga.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ga.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ga.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ga.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ga.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ga.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ga.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ga.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Gha.ottu kn_Ta.ottu.AiLengthMark <0 0 280 0>;
-    pos kn_Gha.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Gha.ottu kn_Ta.ottu.MatraR <0 0 300 0>;
-    pos kn_Gha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Gha.ottu kn_Ta.Ya.ottu <0 0 480 0>;
-    pos kn_Gha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Gha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Gha.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Gha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Gha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Gha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Gha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Gha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Gha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Gha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Gha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Gha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Gha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Gha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Gha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Gha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Gha.ottu kn_Ta.ottu <0 0 500 0>;
-    pos kn_Gha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Gha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Gha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Gha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Gha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Gha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Gha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Gha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Gha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Gha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Gha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Gha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Gha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Gha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Gha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Gha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Gha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Gha.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Gha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Gha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Nga.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Nga.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Nga.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Nga.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Nga.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Nga.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Nga.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Nga.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Nga.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Nga.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Nga.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Nga.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Nga.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Nga.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Nga.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Nga.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Nga.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Nga.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Nga.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Nga.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Nga.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Nga.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Nga.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Nga.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Nga.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Nga.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Nga.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Nga.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Nga.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Nga.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Nga.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Nga.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Nga.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Nga.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Nga.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Nga.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Nga.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Nga.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Nga.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Nga.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Nga.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Nga.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ca.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ca.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ca.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ca.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ca.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ca.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ca.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ca.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ca.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ca.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ca.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ca.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ca.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ca.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ca.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ca.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ca.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ca.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ca.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ca.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ca.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ca.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ca.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ca.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ca.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ca.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ca.ottu kn_Pa.ottu <0 0 590 0>;
-    pos kn_Ca.ottu kn_Pha.ottu <0 0 590 0>;
-    pos kn_Ca.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ca.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ca.ottu kn_Ma.ottu <0 0 430 0>;
-    pos kn_Ca.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ca.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ca.ottu kn_Rra.ottu <0 0 680 0>;
-    pos kn_Ca.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ca.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ca.ottu kn_Va.ottu <0 0 590 0>;
-    pos kn_Ca.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ca.ottu kn_Ssa.ottu <0 0 580 0>;
-    pos kn_Ca.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ca.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ca.ottu kn_Fa.ottu <0 0 690 0>;
-    pos kn_Cha.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Cha.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Cha.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Cha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Cha.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Cha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Cha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Cha.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Cha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Cha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Cha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Cha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Cha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Cha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Cha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Cha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Cha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Cha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Cha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Cha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Cha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Cha.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Cha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Cha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Cha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Cha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Cha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Cha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Cha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Cha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Cha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Cha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Cha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Cha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Cha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Cha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Cha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Cha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Cha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Cha.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Cha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Cha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ja.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ja.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ja.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ja.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ja.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ja.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ja.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ja.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ja.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ja.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ja.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ja.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ja.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ja.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ja.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ja.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ja.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ja.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ja.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ja.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ja.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ja.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ja.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ja.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ja.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ja.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ja.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ja.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ja.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ja.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ja.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ja.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ja.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ja.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ja.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ja.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ja.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ja.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ja.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ja.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ja.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ja.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Jha.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Jha.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Jha.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Jha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Jha.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Jha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Jha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Jha.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Jha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Jha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Jha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Jha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Jha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Jha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Jha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Jha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Jha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Jha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Jha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Jha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Jha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Jha.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Jha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Jha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Jha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Jha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Jha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Jha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Jha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Jha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Jha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Jha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Jha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Jha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Jha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Jha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Jha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Jha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Jha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Jha.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Jha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Jha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Nya.ottu kn_Ta.ottu.AiLengthMark <0 0 220 0>;
-    pos kn_Nya.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Nya.ottu kn_Ta.ottu.MatraR <0 0 240 0>;
-    pos kn_Nya.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Nya.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Nya.ottu kn_Ma.Ya.ottu <0 0 600 0>;
-    pos kn_Nya.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Nya.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Nya.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Nya.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Nya.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Nya.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Nya.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Nya.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Nya.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Nya.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Nya.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Nya.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Nya.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Nya.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Nya.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Nya.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Nya.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Nya.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Nya.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Nya.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Nya.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Nya.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Nya.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Nya.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Nya.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Nya.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Nya.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Nya.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Nya.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Nya.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Nya.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Nya.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Nya.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Nya.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Nya.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Nya.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Tta.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Tta.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Tta.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Tta.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Tta.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Tta.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Tta.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Tta.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Tta.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Tta.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Tta.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Tta.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Tta.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Tta.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Tta.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Tta.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Tta.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Tta.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Tta.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Tta.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Tta.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Tta.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Tta.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Tta.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Tta.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Tta.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Tta.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Tta.ottu kn_Pha.ottu <0 0 590 0>;
-    pos kn_Tta.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Tta.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Tta.ottu kn_Ma.ottu <0 0 430 0>;
-    pos kn_Tta.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Tta.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Tta.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Tta.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Tta.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Tta.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Tta.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Tta.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Tta.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Tta.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Tta.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ttha.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ttha.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ttha.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ttha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ttha.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ttha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ttha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ttha.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ttha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ttha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ttha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ttha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ttha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ttha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ttha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ttha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ttha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ttha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ttha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ttha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ttha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ttha.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ttha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ttha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ttha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ttha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ttha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ttha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ttha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ttha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ttha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ttha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ttha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ttha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ttha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ttha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ttha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ttha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ttha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ttha.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ttha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ttha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Dda.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Dda.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Dda.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Dda.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Dda.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Dda.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Dda.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Dda.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Dda.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Dda.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Dda.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Dda.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Dda.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Dda.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Dda.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Dda.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Dda.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Dda.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Dda.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Dda.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Dda.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Dda.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Dda.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Dda.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Dda.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Dda.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Dda.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Dda.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Dda.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Dda.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Dda.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Dda.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Dda.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Dda.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Dda.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Dda.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Dda.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Dda.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Dda.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Dda.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Dda.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Dda.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ddha.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ddha.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ddha.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ddha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ddha.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ddha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ddha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ddha.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ddha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ddha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ddha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ddha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ddha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ddha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ddha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ddha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ddha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ddha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ddha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ddha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ddha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ddha.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ddha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ddha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ddha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ddha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ddha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ddha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ddha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ddha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ddha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ddha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ddha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ddha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ddha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ddha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ddha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ddha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ddha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ddha.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ddha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ddha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Nna.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Nna.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Nna.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Nna.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Nna.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Nna.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Nna.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Nna.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Nna.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Nna.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Nna.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Nna.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Nna.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Nna.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Nna.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Nna.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Nna.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Nna.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Nna.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Nna.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Nna.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Nna.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Nna.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Nna.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Nna.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Nna.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Nna.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Nna.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Nna.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Nna.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Nna.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Nna.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Nna.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Nna.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Nna.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Nna.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Nna.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Nna.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Nna.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Nna.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Nna.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Nna.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ta.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ta.ottu kn_Ta.ottu.MatraR <0 0 300 0>;
-    pos kn_Ta.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ta.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ta.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ta.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ta.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ta.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ta.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ta.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ta.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ta.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ta.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ta.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ta.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ta.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ta.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ta.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ta.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ta.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ta.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ta.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ta.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ta.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ta.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ta.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ta.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ta.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ta.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ta.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ta.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ta.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ta.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ta.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ta.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ta.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ta.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ta.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ta.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ta.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ta.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Tha.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Tha.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Tha.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Tha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Tha.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Tha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Tha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Tha.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Tha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Tha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Tha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Tha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Tha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Tha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Tha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Tha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Tha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Tha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Tha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Tha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Tha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Tha.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Tha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Tha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Tha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Tha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Tha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Tha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Tha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Tha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Tha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Tha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Tha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Tha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Tha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Tha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Tha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Tha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Tha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Tha.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Tha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Tha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Da.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Da.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Da.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Da.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Da.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Da.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Da.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Da.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Da.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Da.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Da.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Da.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Da.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Da.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Da.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Da.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Da.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Da.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Da.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Da.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Da.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Da.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Da.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Da.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Da.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Da.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Da.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Da.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Da.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Da.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Da.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Da.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Da.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Da.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Da.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Da.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Da.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Da.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Da.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Da.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Da.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Da.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Dha.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Dha.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Dha.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Dha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Dha.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Dha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Dha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Dha.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Dha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Dha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Dha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Dha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Dha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Dha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Dha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Dha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Dha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Dha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Dha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Dha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Dha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Dha.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Dha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Dha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Dha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Dha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Dha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Dha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Dha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Dha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Dha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Dha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Dha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Dha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Dha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Dha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Dha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Dha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Dha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Dha.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Dha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Dha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Na.ottu kn_Ta.ottu.AiLengthMark <0 0 280 0>;
-    pos kn_Na.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Na.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Na.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Na.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Na.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Na.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Na.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Na.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Na.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Na.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Na.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Na.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Na.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Na.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Na.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Na.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Na.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Na.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Na.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Na.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Na.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Na.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Na.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Na.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Na.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Na.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Na.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Na.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Na.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Na.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Na.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Na.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Na.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Na.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Na.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Na.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Na.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Na.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Na.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Na.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Pa.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Pa.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Pa.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Pa.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Pa.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Pa.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Pa.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Pa.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Pa.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Pa.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Pa.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Pa.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Pa.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Pa.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Pa.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Pa.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Pa.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Pa.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Pa.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Pa.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Pa.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Pa.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Pa.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Pa.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Pa.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Pa.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Pa.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Pa.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Pa.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Pa.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Pa.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Pa.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Pa.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Pa.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Pa.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Pa.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Pa.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Pa.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Pa.ottu kn_Ssa.ottu <0 0 560 0>;
-    pos kn_Pa.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Pa.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Pa.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Pha.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Pha.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Pha.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Pha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Pha.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Pha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Pha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Pha.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Pha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Pha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Pha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Pha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Pha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Pha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Pha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Pha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Pha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Pha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Pha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Pha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Pha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Pha.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Pha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Pha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Pha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Pha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Pha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Pha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Pha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Pha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Pha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Pha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Pha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Pha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Pha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Pha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Pha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Pha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Pha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Pha.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Pha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Pha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ba.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ba.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ba.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ba.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ba.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ba.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ba.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ba.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ba.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ba.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ba.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ba.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ba.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ba.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ba.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ba.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ba.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ba.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ba.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ba.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ba.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ba.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ba.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ba.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ba.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ba.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ba.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ba.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ba.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ba.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ba.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ba.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ba.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ba.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ba.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ba.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ba.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ba.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ba.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ba.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ba.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ba.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Bha.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Bha.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Bha.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Bha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Bha.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Bha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Bha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Bha.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Bha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Bha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Bha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Bha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Bha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Bha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Bha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Bha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Bha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Bha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Bha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Bha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Bha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Bha.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Bha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Bha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Bha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Bha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Bha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Bha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Bha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Bha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Bha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Bha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Bha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Bha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Bha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Bha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Bha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Bha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Bha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Bha.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Bha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Bha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ma.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ma.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ma.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ma.ottu kn_Ma.ottu.MatraR <0 0 540 0>;
-    pos kn_Ma.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ma.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ma.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ma.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ma.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ma.ottu kn_Gha.ottu <0 0 660 0>;
-    pos kn_Ma.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ma.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ma.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ma.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ma.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ma.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ma.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ma.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ma.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ma.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ma.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ma.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ma.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ma.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ma.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ma.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ma.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ma.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ma.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ma.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ma.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ma.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ma.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ma.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ma.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ma.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ma.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ma.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ma.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ma.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ma.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ma.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ya.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ya.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Ya.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ya.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ya.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ya.ottu kn_Ma.Ya.ottu <0 0 650 0>;
-    pos kn_Ya.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ya.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ya.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ya.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ya.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ya.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ya.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ya.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ya.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ya.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ya.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ya.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ya.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ya.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ya.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ya.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ya.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ya.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ya.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ya.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ya.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ya.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ya.ottu kn_Ba.ottu <0 0 500 0>;
-    pos kn_Ya.ottu kn_Bha.ottu <0 0 520 0>;
-    pos kn_Ya.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ya.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ya.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ya.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ya.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ya.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ya.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ya.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ya.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ya.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ya.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ya.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ra.ottu kn_Ta.ottu.AiLengthMark <0 0 100 0>;
-    pos kn_Ra.ottu kn_Ma.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ra.ottu kn_Ta.ottu.MatraR <0 0 200 0>;
-    pos kn_Ra.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ra.ottu kn_Ta.Ya.ottu <0 0 400 0>;
-    pos kn_Ra.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ra.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ra.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ra.ottu kn_Ga.ottu <0 0 200 0>;
-    pos kn_Ra.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ra.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ra.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ra.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ra.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ra.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ra.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ra.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ra.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ra.ottu kn_Dda.ottu <0 0 500 0>;
-    pos kn_Ra.ottu kn_Ddha.ottu <0 0 500 0>;
-    pos kn_Ra.ottu kn_Nna.ottu <0 0 600 0>;
-    pos kn_Ra.ottu kn_Ta.ottu <0 0 400 0>;
-    pos kn_Ra.ottu kn_Tha.ottu <0 0 400 0>;
-    pos kn_Ra.ottu kn_Da.ottu <0 0 400 0>;
-    pos kn_Ra.ottu kn_Dha.ottu <0 0 400 0>;
-    pos kn_Ra.ottu kn_Na.ottu <0 0 300 0>;
-    pos kn_Ra.ottu kn_Pa.ottu <0 0 500 0>;
-    pos kn_Ra.ottu kn_Pha.ottu <0 0 400 0>;
-    pos kn_Ra.ottu kn_Ba.ottu <0 0 500 0>;
-    pos kn_Ra.ottu kn_Bha.ottu <0 0 500 0>;
-    pos kn_Ra.ottu kn_Ma.ottu <0 0 300 0>;
-    pos kn_Ra.ottu kn_Ya.ottu <0 0 360 0>;
-    pos kn_Ra.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ra.ottu kn_Rra.ottu <0 0 600 0>;
-    pos kn_Ra.ottu kn_La.ottu <0 0 500 0>;
-    pos kn_Ra.ottu kn_Lla.ottu <0 0 480 0>;
-    pos kn_Ra.ottu kn_Va.ottu <0 0 480 0>;
-    pos kn_Ra.ottu kn_Sha.ottu <0 0 300 0>;
-    pos kn_Ra.ottu kn_Ssa.ottu <0 0 400 0>;
-    pos kn_Ra.ottu kn_Sa.ottu <0 0 400 0>;
-    pos kn_Ra.ottu kn_Ha.ottu <0 0 600 0>;
-    pos kn_Ra.ottu kn_Fa.ottu <0 0 600 0>;
-    pos kn_Ra.ottu kn_MatraR <0 0 120 0>;
-    pos kn_Ra.ottu kn_MatraRr <0 0 160 0>;
-    pos kn_Ra.ottu kn_AiLengthMark <0 0 60 0>;
-    pos kn_Rra.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Rra.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Rra.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Rra.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Rra.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Rra.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Rra.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Rra.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Rra.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Rra.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Rra.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Rra.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Rra.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Rra.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Rra.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Rra.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Rra.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Rra.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Rra.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Rra.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Rra.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Rra.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Rra.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Rra.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Rra.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Rra.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Rra.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Rra.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Rra.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Rra.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Rra.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Rra.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Rra.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Rra.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Rra.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Rra.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Rra.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Rra.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Rra.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Rra.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Rra.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Rra.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_La.ottu kn_Ta.ottu.AiLengthMark <0 0 240 0>;
-    pos kn_La.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_La.ottu kn_Ta.ottu.MatraR <0 0 270 0>;
-    pos kn_La.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_La.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_La.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_La.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_La.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_La.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_La.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_La.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_La.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_La.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_La.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_La.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_La.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_La.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_La.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_La.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_La.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_La.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_La.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_La.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_La.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_La.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_La.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_La.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_La.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_La.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_La.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_La.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_La.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_La.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_La.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_La.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_La.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_La.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_La.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_La.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_La.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_La.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_La.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Lla.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Lla.ottu kn_Ta.ottu.MatraR <0 0 320 0>;
-    pos kn_Lla.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Lla.ottu kn_Ta.Ya.ottu <0 0 520 0>;
-    pos kn_Lla.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Lla.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Lla.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Lla.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Lla.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Lla.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Lla.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Lla.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Lla.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Lla.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Lla.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Lla.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Lla.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Lla.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Lla.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Lla.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Lla.ottu kn_Ta.ottu <0 0 540 0>;
-    pos kn_Lla.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Lla.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Lla.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Lla.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Lla.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Lla.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Lla.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Lla.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Lla.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Lla.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Lla.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Lla.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Lla.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Lla.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Lla.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Lla.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Lla.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Lla.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Lla.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Lla.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Va.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Va.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Va.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Va.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Va.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Va.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Va.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Va.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Va.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Va.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Va.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Va.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Va.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Va.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Va.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Va.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Va.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Va.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Va.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Va.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Va.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Va.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Va.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Va.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Va.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Va.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Va.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Va.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Va.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Va.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Va.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Va.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Va.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Va.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Va.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Va.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Va.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Va.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Va.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Va.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Va.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Va.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Sha.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Sha.ottu kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_Sha.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Sha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Sha.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Sha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Sha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Sha.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Sha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Sha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Sha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Sha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Sha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Sha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Sha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Sha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Sha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Sha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Sha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Sha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Sha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Sha.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Sha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Sha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Sha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Sha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Sha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Sha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Sha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Sha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Sha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Sha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Sha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Sha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Sha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Sha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Sha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Sha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Sha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Sha.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Sha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Sha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ssa.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ssa.ottu kn_Ma.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ssa.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ssa.ottu kn_Ma.ottu.MatraR <0 0 500 0>;
-    pos kn_Ssa.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ssa.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ssa.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ssa.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Ssa.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ssa.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ssa.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ssa.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ssa.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ssa.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ssa.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ssa.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ssa.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ssa.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ssa.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ssa.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ssa.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ssa.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ssa.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ssa.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ssa.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ssa.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ssa.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ssa.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ssa.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ssa.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ssa.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ssa.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ssa.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ssa.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ssa.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ssa.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ssa.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ssa.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ssa.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ssa.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Ssa.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ssa.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Sa.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Sa.ottu kn_Ma.ottu.AiLengthMark <0 0 360 0>;
-    pos kn_Sa.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Sa.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Sa.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Sa.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Sa.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Sa.ottu kn_Kha.ottu <0 0 560 0>;
-    pos kn_Sa.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Sa.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Sa.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Sa.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Sa.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Sa.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Sa.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Sa.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Sa.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Sa.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Sa.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Sa.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Sa.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Sa.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Sa.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Sa.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Sa.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Sa.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Sa.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Sa.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Sa.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Sa.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Sa.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Sa.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Sa.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Sa.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Sa.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Sa.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Sa.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Sa.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Sa.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Sa.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Sa.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Sa.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Ha.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Ha.ottu kn_Ma.ottu.AiLengthMark <0 0 360 0>;
-    pos kn_Ha.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Ha.ottu kn_Ma.ottu.MatraR <0 0 460 0>;
-    pos kn_Ha.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Ha.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Ha.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Ha.ottu kn_Kha.ottu <0 0 540 0>;
-    pos kn_Ha.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Ha.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Ha.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Ha.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Ha.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Ha.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Ha.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Ha.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Ha.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Ha.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Ha.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Ha.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Ha.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Ha.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Ha.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Ha.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Ha.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Ha.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Ha.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Ha.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Ha.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Ha.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Ha.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Ha.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Ha.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Ha.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Ha.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Ha.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Ha.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Ha.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Ha.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Ha.ottu kn_Sa.ottu <0 0 420 0>;
-    pos kn_Ha.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Ha.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_Fa.ottu kn_Ta.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Fa.ottu kn_Ma.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_Fa.ottu kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_Fa.ottu kn_Ma.ottu.MatraR <0 0 540 0>;
-    pos kn_Fa.ottu kn_Ta.Ya.ottu <0 0 580 0>;
-    pos kn_Fa.ottu kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_Fa.ottu kn_Ka.ottu <0 0 420 0>;
-    pos kn_Fa.ottu kn_Kha.ottu <0 0 600 0>;
-    pos kn_Fa.ottu kn_Ga.ottu <0 0 420 0>;
-    pos kn_Fa.ottu kn_Gha.ottu <0 0 520 0>;
-    pos kn_Fa.ottu kn_Nga.ottu <0 0 520 0>;
-    pos kn_Fa.ottu kn_Ca.ottu <0 0 520 0>;
-    pos kn_Fa.ottu kn_Cha.ottu <0 0 640 0>;
-    pos kn_Fa.ottu kn_Ja.ottu <0 0 520 0>;
-    pos kn_Fa.ottu kn_Jha.ottu <0 0 680 0>;
-    pos kn_Fa.ottu kn_Nya.ottu <0 0 700 0>;
-    pos kn_Fa.ottu kn_Tta.ottu <0 0 640 0>;
-    pos kn_Fa.ottu kn_Ttha.ottu <0 0 480 0>;
-    pos kn_Fa.ottu kn_Dda.ottu <0 0 560 0>;
-    pos kn_Fa.ottu kn_Ddha.ottu <0 0 540 0>;
-    pos kn_Fa.ottu kn_Nna.ottu <0 0 640 0>;
-    pos kn_Fa.ottu kn_Ta.ottu <0 0 600 0>;
-    pos kn_Fa.ottu kn_Tha.ottu <0 0 500 0>;
-    pos kn_Fa.ottu kn_Da.ottu <0 0 500 0>;
-    pos kn_Fa.ottu kn_Dha.ottu <0 0 500 0>;
-    pos kn_Fa.ottu kn_Na.ottu <0 0 400 0>;
-    pos kn_Fa.ottu kn_Pa.ottu <0 0 560 0>;
-    pos kn_Fa.ottu kn_Pha.ottu <0 0 560 0>;
-    pos kn_Fa.ottu kn_Ba.ottu <0 0 540 0>;
-    pos kn_Fa.ottu kn_Bha.ottu <0 0 540 0>;
-    pos kn_Fa.ottu kn_Ma.ottu <0 0 400 0>;
-    pos kn_Fa.ottu kn_Ya.ottu <0 0 420 0>;
-    pos kn_Fa.ottu kn_Ra.ottu <0 0 300 0>;
-    pos kn_Fa.ottu kn_Rra.ottu <0 0 660 0>;
-    pos kn_Fa.ottu kn_La.ottu <0 0 640 0>;
-    pos kn_Fa.ottu kn_Lla.ottu <0 0 520 0>;
-    pos kn_Fa.ottu kn_Va.ottu <0 0 540 0>;
-    pos kn_Fa.ottu kn_Sha.ottu <0 0 400 0>;
-    pos kn_Fa.ottu kn_Ssa.ottu <0 0 540 0>;
-    pos kn_Fa.ottu kn_Sa.ottu <0 0 560 0>;
-    pos kn_Fa.ottu kn_Ha.ottu <0 0 640 0>;
-    pos kn_Fa.ottu kn_Fa.ottu <0 0 680 0>;
-    pos kn_MatraAa kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_MatraAa kn_Jha.ottu <0 0 -200 0>;
-    pos kn_MatraUu kn_MatraE.alt1 <0 0 10 0>;
-    pos kn_MatraE kn_Ta.ottu.AiLengthMark <0 0 -200 0>;
-    pos kn_MatraE kn_Ma.ottu.AiLengthMark <0 0 -200 0>;
-    pos kn_MatraE kn_Ta.ottu.MatraR <0 0 -200 0>;
-    pos kn_MatraE kn_Ma.ottu.MatraR <0 0 -200 0>;
-    pos kn_MatraE kn_Ta.Ya.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_MatraE kn_Ka.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Kha.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ga.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Gha.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Nga.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Cha.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ja.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Jha.ottu <0 0 -200 0>;
-    pos kn_MatraE kn_Nya.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Tta.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ttha.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Dda.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ddha.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Nna.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ta.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Tha.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Da.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Dha.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Na.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Pa.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Pha.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ba.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Bha.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ma.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ya.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ra.ottu <0 0 -200 0>;
-    pos kn_MatraE kn_Rra.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_La.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Lla.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Va.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Sha.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ssa.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Sa.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Ha.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_Fa.ottu <0 0 -80 0>;
-    pos kn_MatraE kn_MatraUu <0 0 -180 0>;
-    pos kn_MatraE kn_MatraR <0 0 -200 0>;
-    pos kn_MatraE kn_MatraRr <0 0 -200 0>;
-    pos kn_MatraE kn_AiLengthMark <0 0 -200 0>;
-    pos kn_MatraE kn_KI <0 0 -100 0>;
-    pos kn_MatraAu kn_Ta.ottu.AiLengthMark <0 0 -300 0>;
-    pos kn_MatraAu kn_Ma.ottu.AiLengthMark <0 0 -300 0>;
-    pos kn_MatraAu kn_Ta.ottu.MatraR <0 0 -300 0>;
-    pos kn_MatraAu kn_Ma.ottu.MatraR <0 0 -300 0>;
-    pos kn_MatraAu kn_Ta.Ya.ottu <0 0 -200 0>;
-    pos kn_MatraAu kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_MatraAu kn_Ka.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Kha.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ga.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Gha.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Nga.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ca.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Cha.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ja.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Jha.ottu <0 0 -100 0>;
-    pos kn_MatraAu kn_Nya.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Tta.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ttha.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Dda.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ddha.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Nna.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ta.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Tha.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Da.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Dha.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Na.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Pa.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Pha.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ba.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Bha.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ma.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ya.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ra.ottu <0 0 -285 0>;
-    pos kn_MatraAu kn_Rra.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_La.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Lla.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Va.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Sha.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ssa.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Sa.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Ha.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_Fa.ottu <0 0 -80 0>;
-    pos kn_MatraAu kn_MatraR <0 0 -300 0>;
-    pos kn_MatraAu kn_MatraRr <0 0 -300 0>;
-    pos kn_MatraAu kn_AiLengthMark <0 0 -300 0>;
-    pos kn_Halant kn_Ta.Ya.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Halant kn_Ka.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Kha.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ga.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Gha.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Nga.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ca.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Cha.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ja.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Jha.ottu <0 0 -200 0>;
-    pos kn_Halant kn_Nya.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Tta.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ttha.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Dda.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ddha.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Nna.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ta.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Tha.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Da.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Dha.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Na.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Pa.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Pha.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ba.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Bha.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ma.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ya.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ra.ottu <0 0 -280 0>;
-    pos kn_Halant kn_Rra.ottu <0 0 -80 0>;
-    pos kn_Halant kn_La.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Lla.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Va.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Sha.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ssa.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Sa.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Ha.ottu <0 0 -80 0>;
-    pos kn_Halant kn_Fa.ottu <0 0 -80 0>;
-    pos kn_MatraU.alt1 kn_Ta.ottu.AiLengthMark <0 0 200 0>;
-    pos kn_MatraU.alt1 kn_Ma.ottu.AiLengthMark <0 0 400 0>;
-    pos kn_MatraU.alt1 kn_Ta.ottu.MatraR <0 0 200 0>;
-    pos kn_MatraU.alt1 kn_Ma.ottu.MatraR <0 0 400 0>;
-    pos kn_MatraU.alt1 kn_Ta.Ya.ottu <0 0 300 0>;
-    pos kn_MatraU.alt1 kn_Ma.Ya.ottu <0 0 500 0>;
-    pos kn_MatraU.alt1 kn_Ka.ottu <0 0 400 0>;
-    pos kn_MatraU.alt1 kn_Kha.ottu <0 0 600 0>;
-    pos kn_MatraU.alt1 kn_Ga.ottu <0 0 340 0>;
-    pos kn_MatraU.alt1 kn_Gha.ottu <0 0 560 0>;
-    pos kn_MatraU.alt1 kn_Nga.ottu <0 0 500 0>;
-    pos kn_MatraU.alt1 kn_Ca.ottu <0 0 500 0>;
-    pos kn_MatraU.alt1 kn_Cha.ottu <0 0 600 0>;
-    pos kn_MatraU.alt1 kn_Ja.ottu <0 0 500 0>;
-    pos kn_MatraU.alt1 kn_Jha.ottu <0 0 600 0>;
-    pos kn_MatraU.alt1 kn_Nya.ottu <0 0 700 0>;
-    pos kn_MatraU.alt1 kn_Tta.ottu <0 0 600 0>;
-    pos kn_MatraU.alt1 kn_Ttha.ottu <0 0 440 0>;
-    pos kn_MatraU.alt1 kn_Dda.ottu <0 0 460 0>;
-    pos kn_MatraU.alt1 kn_Ddha.ottu <0 0 460 0>;
-    pos kn_MatraU.alt1 kn_Nna.ottu <0 0 600 0>;
-    pos kn_MatraU.alt1 kn_Ta.ottu <0 0 340 0>;
-    pos kn_MatraU.alt1 kn_Tha.ottu <0 0 400 0>;
-    pos kn_MatraU.alt1 kn_Da.ottu <0 0 400 0>;
-    pos kn_MatraU.alt1 kn_Dha.ottu <0 0 400 0>;
-    pos kn_MatraU.alt1 kn_Na.ottu <0 0 300 0>;
-    pos kn_MatraU.alt1 kn_Pa.ottu <0 0 400 0>;
-    pos kn_MatraU.alt1 kn_Pha.ottu <0 0 400 0>;
-    pos kn_MatraU.alt1 kn_Ba.ottu <0 0 500 0>;
-    pos kn_MatraU.alt1 kn_Bha.ottu <0 0 500 0>;
-    pos kn_MatraU.alt1 kn_Ma.ottu <0 0 320 0>;
-    pos kn_MatraU.alt1 kn_Ya.ottu <0 0 320 0>;
-    pos kn_MatraU.alt1 kn_Ra.ottu <0 0 200 0>;
-    pos kn_MatraU.alt1 kn_Rra.ottu <0 0 600 0>;
-    pos kn_MatraU.alt1 kn_La.ottu <0 0 600 0>;
-    pos kn_MatraU.alt1 kn_Lla.ottu <0 0 500 0>;
-    pos kn_MatraU.alt1 kn_Va.ottu <0 0 400 0>;
-    pos kn_MatraU.alt1 kn_Sha.ottu <0 0 320 0>;
-    pos kn_MatraU.alt1 kn_Ssa.ottu <0 0 460 0>;
-    pos kn_MatraU.alt1 kn_Sa.ottu <0 0 400 0>;
-    pos kn_MatraU.alt1 kn_Ha.ottu <0 0 560 0>;
-    pos kn_MatraU.alt1 kn_Fa.ottu <0 0 600 0>;
-    pos kn_Halant.alt1 kn_Ta.Ya.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_Halant.alt1 kn_Ka.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Kha.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ga.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Gha.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Nga.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ca.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Cha.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ja.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Jha.ottu <0 0 -200 0>;
-    pos kn_Halant.alt1 kn_Nya.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Tta.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ttha.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Dda.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ddha.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Nna.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ta.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Tha.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Da.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Dha.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Na.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Pa.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Pha.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ba.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Bha.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ma.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ya.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ra.ottu <0 0 -280 0>;
-    pos kn_Halant.alt1 kn_Rra.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_La.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Lla.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Va.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Sha.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ssa.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Sa.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Ha.ottu <0 0 -80 0>;
-    pos kn_Halant.alt1 kn_Fa.ottu <0 0 -80 0>;
-    pos kn_KAa kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_GhAa kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_NyAa kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_LlE kn_Ma.Ya.ottu <0 0 -100 0>;
-    pos kn_LlE kn_MatraUu <0 0 -80 0>;
-    pos kn_LlE kn_AiLengthMark <0 0 -160 0>;
-    pos kn_JhE kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_JhE kn_Ta.Ya.ottu <0 0 100 0>;
-    pos kn_JhE kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_JhE kn_Kha.ottu <0 0 100 0>;
-    pos kn_JhE kn_Gha.ottu <0 0 50 0>;
-    pos kn_JhE kn_Nga.ottu <0 0 120 0>;
-    pos kn_JhE kn_Ca.ottu <0 0 140 0>;
-    pos kn_JhE kn_Cha.ottu <0 0 120 0>;
-    pos kn_JhE kn_Ja.ottu <0 0 120 0>;
-    pos kn_JhE kn_Jha.ottu <0 0 140 0>;
-    pos kn_JhE kn_Tta.ottu <0 0 100 0>;
-    pos kn_JhE kn_Nna.ottu <0 0 100 0>;
-    pos kn_JhE kn_Pa.ottu <0 0 40 0>;
-    pos kn_JhE kn_Pha.ottu <0 0 40 0>;
-    pos kn_JhE kn_Ba.ottu <0 0 120 0>;
-    pos kn_JhE kn_Bha.ottu <0 0 120 0>;
-    pos kn_JhE kn_Rra.ottu <0 0 140 0>;
-    pos kn_JhE kn_La.ottu <0 0 120 0>;
-    pos kn_JhE kn_Lla.ottu <0 0 80 0>;
-    pos kn_JhE kn_Ssa.ottu <0 0 40 0>;
-    pos kn_JhE kn_Ha.ottu <0 0 140 0>;
-    pos kn_JhE kn_Fa.ottu <0 0 140 0>;
-    pos kn_NyE kn_Ta.ottu.AiLengthMark <0 0 -350 0>;
-    pos kn_NyE kn_Ma.ottu.AiLengthMark <0 0 -380 0>;
-    pos kn_NyE kn_Ta.ottu.MatraR <0 0 -350 0>;
-    pos kn_NyE kn_Ma.ottu.MatraR <0 0 -340 0>;
-    pos kn_NyE kn_Ta.Ya.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_NyE kn_Ka.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Kha.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ga.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Gha.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Nga.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ca.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Cha.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ja.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Jha.ottu <0 0 -200 0>;
-    pos kn_NyE kn_Nya.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Tta.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ttha.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Dda.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ddha.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Da.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Dha.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Na.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Pa.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Pha.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ba.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Bha.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ma.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ya.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ra.ottu <0 0 -280 0>;
-    pos kn_NyE kn_Rra.ottu <0 0 -80 0>;
-    pos kn_NyE kn_La.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Lla.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Va.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Sha.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ssa.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Sa.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Ha.ottu <0 0 -80 0>;
-    pos kn_NyE kn_Fa.ottu <0 0 -80 0>;
-    pos kn_NyE kn_MatraUu <0 0 -80 0>;
-    pos kn_NyE kn_MatraR <0 0 -350 0>;
-    pos kn_NyE kn_MatraRr <0 0 -600 0>;
-    pos kn_NyE kn_AiLengthMark <0 0 -400 0>;
-    pos kn_NyE kn_TI <0 0 -100 0>;
-    pos kn_NyE kn_NI <0 0 -200 0>;
-    pos kn_NyE kn_VI <0 0 -100 0>;
-    pos kn_NyE kn_GhI <0 0 -100 0>;
-    pos kn_NyE kn_PI <0 0 -100 0>;
-    pos kn_NyE kn_PhI <0 0 -100 0>;
-    pos kn_NyE kn_SsI <0 0 -100 0>;
-    pos kn_NyE kn_SI <0 0 -200 0>;
-    pos kn_TtE kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_NyU kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_NyUu kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_NyO kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_KhI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_GI kn_Ma.Ya.ottu <0 0 -100 0>;
-    pos kn_CI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_ChI kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_ChI kn_Ta.Ya.ottu <0 0 100 0>;
-    pos kn_ChI kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_ChI kn_Kha.ottu <0 0 100 0>;
-    pos kn_ChI kn_Gha.ottu <0 0 30 0>;
-    pos kn_ChI kn_Nga.ottu <0 0 80 0>;
-    pos kn_ChI kn_Ca.ottu <0 0 120 0>;
-    pos kn_ChI kn_Cha.ottu <0 0 120 0>;
-    pos kn_ChI kn_Ja.ottu <0 0 100 0>;
-    pos kn_ChI kn_Jha.ottu <0 0 140 0>;
-    pos kn_ChI kn_Tta.ottu <0 0 100 0>;
-    pos kn_ChI kn_Nna.ottu <0 0 100 0>;
-    pos kn_ChI kn_Pa.ottu <0 0 40 0>;
-    pos kn_ChI kn_Pha.ottu <0 0 40 0>;
-    pos kn_ChI kn_Ba.ottu <0 0 100 0>;
-    pos kn_ChI kn_Bha.ottu <0 0 100 0>;
-    pos kn_ChI kn_Rra.ottu <0 0 140 0>;
-    pos kn_ChI kn_La.ottu <0 0 120 0>;
-    pos kn_ChI kn_Lla.ottu <0 0 80 0>;
-    pos kn_ChI kn_Ssa.ottu <0 0 40 0>;
-    pos kn_ChI kn_Ha.ottu <0 0 140 0>;
-    pos kn_ChI kn_Fa.ottu <0 0 140 0>;
-    pos kn_JI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_JhI kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_JhI kn_Ta.Ya.ottu <0 0 100 0>;
-    pos kn_JhI kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_JhI kn_Kha.ottu <0 0 100 0>;
-    pos kn_JhI kn_Gha.ottu <0 0 50 0>;
-    pos kn_JhI kn_Nga.ottu <0 0 100 0>;
-    pos kn_JhI kn_Ca.ottu <0 0 140 0>;
-    pos kn_JhI kn_Cha.ottu <0 0 120 0>;
-    pos kn_JhI kn_Ja.ottu <0 0 120 0>;
-    pos kn_JhI kn_Jha.ottu <0 0 140 0>;
-    pos kn_JhI kn_Tta.ottu <0 0 100 0>;
-    pos kn_JhI kn_Nna.ottu <0 0 100 0>;
-    pos kn_JhI kn_Pa.ottu <0 0 40 0>;
-    pos kn_JhI kn_Pha.ottu <0 0 40 0>;
-    pos kn_JhI kn_Ba.ottu <0 0 120 0>;
-    pos kn_JhI kn_Bha.ottu <0 0 120 0>;
-    pos kn_JhI kn_Rra.ottu <0 0 140 0>;
-    pos kn_JhI kn_La.ottu <0 0 120 0>;
-    pos kn_JhI kn_Lla.ottu <0 0 80 0>;
-    pos kn_JhI kn_Ssa.ottu <0 0 40 0>;
-    pos kn_JhI kn_Ha.ottu <0 0 140 0>;
-    pos kn_JhI kn_Fa.ottu <0 0 140 0>;
-    pos kn_TtI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_TthI kn_Ma.Ya.ottu <0 0 -100 0>;
-    pos kn_DdI kn_Ma.Ya.ottu <0 0 -100 0>;
-    pos kn_DdhI kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_DdhI kn_Kha.ottu <0 0 100 0>;
-    pos kn_DdhI kn_Gha.ottu <0 0 50 0>;
-    pos kn_DdhI kn_Nga.ottu <0 0 100 0>;
-    pos kn_DdhI kn_Ca.ottu <0 0 140 0>;
-    pos kn_DdhI kn_Cha.ottu <0 0 120 0>;
-    pos kn_DdhI kn_Ja.ottu <0 0 120 0>;
-    pos kn_DdhI kn_Jha.ottu <0 0 140 0>;
-    pos kn_DdhI kn_Tta.ottu <0 0 100 0>;
-    pos kn_DdhI kn_Nna.ottu <0 0 100 0>;
-    pos kn_DdhI kn_Pa.ottu <0 0 40 0>;
-    pos kn_DdhI kn_Pha.ottu <0 0 40 0>;
-    pos kn_DdhI kn_Ba.ottu <0 0 120 0>;
-    pos kn_DdhI kn_Bha.ottu <0 0 120 0>;
-    pos kn_DdhI kn_Rra.ottu <0 0 140 0>;
-    pos kn_DdhI kn_La.ottu <0 0 120 0>;
-    pos kn_DdhI kn_Lla.ottu <0 0 80 0>;
-    pos kn_DdhI kn_Ssa.ottu <0 0 40 0>;
-    pos kn_DdhI kn_Ha.ottu <0 0 140 0>;
-    pos kn_DdhI kn_Fa.ottu <0 0 140 0>;
-    pos kn_TI kn_Ma.Ya.ottu <0 0 -100 0>;
-    pos kn_ThI kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_ThI kn_Ta.Ya.ottu <0 0 140 0>;
-    pos kn_ThI kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_ThI kn_Kha.ottu <0 0 100 0>;
-    pos kn_ThI kn_Gha.ottu <0 0 80 0>;
-    pos kn_ThI kn_Nga.ottu <0 0 120 0>;
-    pos kn_ThI kn_Ca.ottu <0 0 160 0>;
-    pos kn_ThI kn_Cha.ottu <0 0 120 0>;
-    pos kn_ThI kn_Ja.ottu <0 0 120 0>;
-    pos kn_ThI kn_Jha.ottu <0 0 140 0>;
-    pos kn_ThI kn_Tta.ottu <0 0 120 0>;
-    pos kn_ThI kn_Nna.ottu <0 0 100 0>;
-    pos kn_ThI kn_Pa.ottu <0 0 40 0>;
-    pos kn_ThI kn_Pha.ottu <0 0 40 0>;
-    pos kn_ThI kn_Ba.ottu <0 0 140 0>;
-    pos kn_ThI kn_Bha.ottu <0 0 140 0>;
-    pos kn_ThI kn_Rra.ottu <0 0 140 0>;
-    pos kn_ThI kn_La.ottu <0 0 120 0>;
-    pos kn_ThI kn_Lla.ottu <0 0 80 0>;
-    pos kn_ThI kn_Ssa.ottu <0 0 40 0>;
-    pos kn_ThI kn_Ha.ottu <0 0 140 0>;
-    pos kn_ThI kn_Fa.ottu <0 0 140 0>;
-    pos kn_DI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_DhI kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_DhI kn_Ta.Ya.ottu <0 0 140 0>;
-    pos kn_DhI kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_DhI kn_Kha.ottu <0 0 140 0>;
-    pos kn_DhI kn_Gha.ottu <0 0 80 0>;
-    pos kn_DhI kn_Nga.ottu <0 0 120 0>;
-    pos kn_DhI kn_Ca.ottu <0 0 160 0>;
-    pos kn_DhI kn_Cha.ottu <0 0 120 0>;
-    pos kn_DhI kn_Ja.ottu <0 0 120 0>;
-    pos kn_DhI kn_Jha.ottu <0 0 140 0>;
-    pos kn_DhI kn_Tta.ottu <0 0 120 0>;
-    pos kn_DhI kn_Nna.ottu <0 0 100 0>;
-    pos kn_DhI kn_Pa.ottu <0 0 40 0>;
-    pos kn_DhI kn_Pha.ottu <0 0 40 0>;
-    pos kn_DhI kn_Ba.ottu <0 0 140 0>;
-    pos kn_DhI kn_Bha.ottu <0 0 140 0>;
-    pos kn_DhI kn_Rra.ottu <0 0 140 0>;
-    pos kn_DhI kn_La.ottu <0 0 120 0>;
-    pos kn_DhI kn_Lla.ottu <0 0 80 0>;
-    pos kn_DhI kn_Ssa.ottu <0 0 40 0>;
-    pos kn_DhI kn_Ha.ottu <0 0 140 0>;
-    pos kn_DhI kn_Fa.ottu <0 0 140 0>;
-    pos kn_NI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_BI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_BhI kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_BhI kn_Ta.Ya.ottu <0 0 140 0>;
-    pos kn_BhI kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_BhI kn_Kha.ottu <0 0 140 0>;
-    pos kn_BhI kn_Gha.ottu <0 0 60 0>;
-    pos kn_BhI kn_Nga.ottu <0 0 120 0>;
-    pos kn_BhI kn_Ca.ottu <0 0 160 0>;
-    pos kn_BhI kn_Cha.ottu <0 0 120 0>;
-    pos kn_BhI kn_Ja.ottu <0 0 120 0>;
-    pos kn_BhI kn_Jha.ottu <0 0 140 0>;
-    pos kn_BhI kn_Tta.ottu <0 0 100 0>;
-    pos kn_BhI kn_Nna.ottu <0 0 100 0>;
-    pos kn_BhI kn_Pa.ottu <0 0 40 0>;
-    pos kn_BhI kn_Pha.ottu <0 0 40 0>;
-    pos kn_BhI kn_Ba.ottu <0 0 120 0>;
-    pos kn_BhI kn_Bha.ottu <0 0 120 0>;
-    pos kn_BhI kn_Rra.ottu <0 0 140 0>;
-    pos kn_BhI kn_La.ottu <0 0 120 0>;
-    pos kn_BhI kn_Lla.ottu <0 0 80 0>;
-    pos kn_BhI kn_Ssa.ottu <0 0 40 0>;
-    pos kn_BhI kn_Ha.ottu <0 0 140 0>;
-    pos kn_BhI kn_Fa.ottu <0 0 140 0>;
-    pos kn_MI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_YI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_RI kn_Ma.Ya.ottu <0 0 -100 0>;
-    pos kn_LI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_LlI kn_Ma.Ya.ottu <0 0 -100 0>;
-    pos kn_VI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_ShI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_NnI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_PI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_PhI kn_Ma.ottu.MatraR <0 0 100 0>;
-    pos kn_PhI kn_Ta.Ya.ottu <0 0 140 0>;
-    pos kn_PhI kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_PhI kn_Kha.ottu <0 0 140 0>;
-    pos kn_PhI kn_Gha.ottu <0 0 60 0>;
-    pos kn_PhI kn_Nga.ottu <0 0 120 0>;
-    pos kn_PhI kn_Ca.ottu <0 0 160 0>;
-    pos kn_PhI kn_Cha.ottu <0 0 120 0>;
-    pos kn_PhI kn_Ja.ottu <0 0 120 0>;
-    pos kn_PhI kn_Jha.ottu <0 0 140 0>;
-    pos kn_PhI kn_Tta.ottu <0 0 100 0>;
-    pos kn_PhI kn_Nna.ottu <0 0 100 0>;
-    pos kn_PhI kn_Pa.ottu <0 0 40 0>;
-    pos kn_PhI kn_Pha.ottu <0 0 40 0>;
-    pos kn_PhI kn_Ba.ottu <0 0 140 0>;
-    pos kn_PhI kn_Bha.ottu <0 0 140 0>;
-    pos kn_PhI kn_Rra.ottu <0 0 140 0>;
-    pos kn_PhI kn_La.ottu <0 0 120 0>;
-    pos kn_PhI kn_Lla.ottu <0 0 80 0>;
-    pos kn_PhI kn_Ssa.ottu <0 0 40 0>;
-    pos kn_PhI kn_Ha.ottu <0 0 140 0>;
-    pos kn_PhI kn_Fa.ottu <0 0 140 0>;
-    pos kn_RrI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_SsI kn_Ma.Ya.ottu <0 0 140 0>;
-    pos kn_SsI kn_Ka.ottu <0 0 80 0>;
-    pos kn_SsI kn_Kha.ottu <0 0 140 0>;
-    pos kn_SsI kn_Gha.ottu <0 0 100 0>;
-    pos kn_SsI kn_Nga.ottu <0 0 120 0>;
-    pos kn_SsI kn_Ja.ottu <0 0 140 0>;
-    pos kn_SsI kn_Jha.ottu <0 0 140 0>;
-    pos kn_SsI kn_Na.ottu <0 0 40 0>;
-    pos kn_SsI kn_Pa.ottu <0 0 80 0>;
-    pos kn_SsI kn_Pha.ottu <0 0 80 0>;
-    pos kn_SsI kn_Ma.ottu <0 0 100 0>;
-    pos kn_SsI kn_Ya.ottu <0 0 140 0>;
-    pos kn_SsI kn_Rra.ottu <0 0 220 0>;
-    pos kn_SsI kn_La.ottu <0 0 120 0>;
-    pos kn_SsI kn_Lla.ottu <0 0 80 0>;
-    pos kn_SsI kn_Ssa.ottu <0 0 80 0>;
-    pos kn_SsI kn_Sa.ottu <0 0 80 0>;
-    pos kn_SsI kn_Fa.ottu <0 0 200 0>;
-    pos kn_SsI kn_MatraL <0 0 80 0>;
-    pos kn_SsI kn_MatraLl <0 0 80 0>;
-    pos kn_SI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_HI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_FI kn_Ma.Ya.ottu <0 0 -200 0>;
-    pos kn_KAu kn_Ta.ottu.AiLengthMark <0 0 -350 0>;
-    pos kn_KAu kn_Ma.ottu.AiLengthMark <0 0 -380 0>;
-    pos kn_KAu kn_Ta.ottu.MatraR <0 0 -350 0>;
-    pos kn_KAu kn_Ma.ottu.MatraR <0 0 -340 0>;
-    pos kn_KAu kn_Ta.Ya.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ma.Ya.ottu <0 0 -300 0>;
-    pos kn_KAu kn_Ka.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Kha.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ga.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Gha.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Nga.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ca.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Cha.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ja.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Jha.ottu <0 0 -200 0>;
-    pos kn_KAu kn_Nya.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Tta.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ttha.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Dda.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ddha.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Nna.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ba.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Bha.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ma.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ya.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ra.ottu <0 0 -280 0>;
-    pos kn_KAu kn_Rra.ottu <0 0 -80 0>;
-    pos kn_KAu kn_La.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Lla.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Va.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Sha.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ssa.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Sa.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Ha.ottu <0 0 -80 0>;
-    pos kn_KAu kn_Fa.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ta.Ya.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ma.Ya.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ka.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Kha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ga.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Gha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Nga.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ca.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Cha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ja.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Jha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Nya.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Tta.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ttha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Dda.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ddha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Nna.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ta.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Tha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Da.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Dha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Na.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Pa.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Pha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ba.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Bha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ma.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ya.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Rra.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_La.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Lla.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Va.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Sha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ssa.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Sa.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Ha.ottu <0 0 -80 0>;
-    pos kn_GhAu kn_Fa.ottu <0 0 -80 0>;
-    pos kn_Reph kn_KI <0 0 -100 0>;
-    pos kn_Reph kn_DdI <0 0 -80 0>;
-    pos kn_Reph kn_DdhI <0 0 -80 0>;
-    pos kn_Reph kn_TI <0 0 -120 0>;
-    pos kn_Reph kn_ThI <0 0 -80 0>;
-    pos kn_Reph kn_DI <0 0 -80 0>;
-    pos kn_Reph kn_DhI <0 0 -80 0>;
-    pos kn_Reph kn_NI <0 0 -120 0>;
-    pos kn_Reph kn_VI <0 0 -120 0>;
-    pos kn_Reph kn_GhI <0 0 -120 0>;
-    pos kn_Reph kn_PI <0 0 -120 0>;
-    pos kn_Reph kn_PhI <0 0 -120 0>;
-    pos kn_Reph kn_SsI <0 0 -120 0>;
-    pos kn_Reph kn_SI <0 0 -120 0>;
-    pos kn_KSsa kn_Ta.ottu.AiLengthMark <0 0 320 0>;
-    pos kn_KSsa kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_KSsa kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_KSsa kn_Ma.ottu.MatraR <0 0 640 0>;
-    pos kn_KSsa kn_Ta.Ya.ottu <0 0 600 0>;
-    pos kn_KSsa kn_Ma.Ya.ottu <0 0 660 0>;
-    pos kn_KSsa kn_Ka.ottu <0 0 420 0>;
-    pos kn_KSsa kn_Kha.ottu <0 0 600 0>;
-    pos kn_KSsa kn_Ga.ottu <0 0 400 0>;
-    pos kn_KSsa kn_Gha.ottu <0 0 700 0>;
-    pos kn_KSsa kn_Nga.ottu <0 0 560 0>;
-    pos kn_KSsa kn_Ca.ottu <0 0 600 0>;
-    pos kn_KSsa kn_Cha.ottu <0 0 660 0>;
-    pos kn_KSsa kn_Ja.ottu <0 0 560 0>;
-    pos kn_KSsa kn_Jha.ottu <0 0 700 0>;
-    pos kn_KSsa kn_Nya.ottu <0 0 740 0>;
-    pos kn_KSsa kn_Tta.ottu <0 0 680 0>;
-    pos kn_KSsa kn_Ttha.ottu <0 0 500 0>;
-    pos kn_KSsa kn_Dda.ottu <0 0 580 0>;
-    pos kn_KSsa kn_Ddha.ottu <0 0 580 0>;
-    pos kn_KSsa kn_Nna.ottu <0 0 650 0>;
-    pos kn_KSsa kn_Ta.ottu <0 0 540 0>;
-    pos kn_KSsa kn_Tha.ottu <0 0 520 0>;
-    pos kn_KSsa kn_Da.ottu <0 0 520 0>;
-    pos kn_KSsa kn_Dha.ottu <0 0 520 0>;
-    pos kn_KSsa kn_Na.ottu <0 0 410 0>;
-    pos kn_KSsa kn_Pa.ottu <0 0 590 0>;
-    pos kn_KSsa kn_Pha.ottu <0 0 590 0>;
-    pos kn_KSsa kn_Ba.ottu <0 0 570 0>;
-    pos kn_KSsa kn_Bha.ottu <0 0 570 0>;
-    pos kn_KSsa kn_Ma.ottu <0 0 430 0>;
-    pos kn_KSsa kn_Ya.ottu <0 0 440 0>;
-    pos kn_KSsa kn_Ra.ottu <0 0 160 0>;
-    pos kn_KSsa kn_Rra.ottu <0 0 680 0>;
-    pos kn_KSsa kn_La.ottu <0 0 650 0>;
-    pos kn_KSsa kn_Lla.ottu <0 0 540 0>;
-    pos kn_KSsa kn_Va.ottu <0 0 590 0>;
-    pos kn_KSsa kn_Sha.ottu <0 0 410 0>;
-    pos kn_KSsa kn_Ssa.ottu <0 0 580 0>;
-    pos kn_KSsa kn_Sa.ottu <0 0 600 0>;
-    pos kn_KSsa kn_Ha.ottu <0 0 650 0>;
-    pos kn_KSsa kn_Fa.ottu <0 0 690 0>;
-    pos kn_KSsa.halant kn_Ma.ottu.AiLengthMark <0 0 100 0>;
-    pos kn_KSsa.halant kn_Ma.ottu.MatraR <0 0 140 0>;
-    pos kn_KSsa.halant kn_Ra.ottu.alt1 <0 0 -272 0>;
-    pos kn_KSsa.halant kn_Ta.Ya.ottu <0 0 140 0>;
-    pos kn_KSsa.halant kn_Ma.Ya.ottu <0 0 260 0>;
-    pos kn_KSsa.halant kn_Kha.ottu <0 0 160 0>;
-    pos kn_KSsa.halant kn_Gha.ottu <0 0 160 0>;
-    pos kn_KSsa.halant kn_Nga.ottu <0 0 100 0>;
-    pos kn_KSsa.halant kn_Ca.ottu <0 0 100 0>;
-    pos kn_KSsa.halant kn_Cha.ottu <0 0 100 0>;
-    pos kn_KSsa.halant kn_Ja.ottu <0 0 100 0>;
-    pos kn_KSsa.halant kn_Jha.ottu <0 0 220 0>;
-    pos kn_KSsa.halant kn_Nya.ottu <0 0 200 0>;
-    pos kn_KSsa.halant kn_Tta.ottu <0 0 160 0>;
-    pos kn_KSsa.halant kn_Ttha.ottu <0 0 60 0>;
-    pos kn_KSsa.halant kn_Dda.ottu <0 0 100 0>;
-    pos kn_KSsa.halant kn_Ddha.ottu <0 0 100 0>;
-    pos kn_KSsa.halant kn_Nna.ottu <0 0 200 0>;
-    pos kn_KSsa.halant kn_Ta.ottu <0 0 100 0>;
-    pos kn_KSsa.halant kn_Tha.ottu <0 0 60 0>;
-    pos kn_KSsa.halant kn_Da.ottu <0 0 60 0>;
-    pos kn_KSsa.halant kn_Dha.ottu <0 0 60 0>;
-    pos kn_KSsa.halant kn_Pa.ottu <0 0 120 0>;
-    pos kn_KSsa.halant kn_Pha.ottu <0 0 100 0>;
-    pos kn_KSsa.halant kn_Ba.ottu <0 0 120 0>;
-    pos kn_KSsa.halant kn_Bha.ottu <0 0 120 0>;
-    pos kn_KSsa.halant kn_Rra.ottu <0 0 240 0>;
-    pos kn_KSsa.halant kn_La.ottu <0 0 200 0>;
-    pos kn_KSsa.halant kn_Lla.ottu <0 0 100 0>;
-    pos kn_KSsa.halant kn_Va.ottu <0 0 140 0>;
-    pos kn_KSsa.halant kn_Ssa.ottu <0 0 140 0>;
-    pos kn_KSsa.halant kn_Sa.ottu <0 0 140 0>;
-    pos kn_KSsa.halant kn_Ha.ottu <0 0 200 0>;
-    pos kn_KSsa.halant kn_Fa.ottu <0 0 260 0>;
-    pos kn_KSsE kn_Ta.ottu.AiLengthMark <0 0 340 0>;
-    pos kn_KSsE kn_Ma.ottu.AiLengthMark <0 0 540 0>;
-    pos kn_KSsE kn_Ta.ottu.MatraR <0 0 360 0>;
-    pos kn_KSsE kn_Ma.ottu.MatraR <0 0 600 0>;
-    pos kn_KSsE kn_Ma.Ya.ottu <0 0 700 0>;
-    pos kn_KSsE kn_Ka.ottu <0 0 420 0>;
-    pos kn_KSsE kn_Kha.ottu <0 0 640 0>;
-    pos kn_KSsE kn_Ga.ottu <0 0 400 0>;
-    pos kn_KSsE kn_Gha.ottu <0 0 700 0>;
-    pos kn_KSsE kn_Nga.ottu <0 0 520 0>;
-    pos kn_KSsE kn_Ca.ottu <0 0 600 0>;
-    pos kn_KSsE kn_Cha.ottu <0 0 640 0>;
-    pos kn_KSsE kn_Ja.ottu <0 0 540 0>;
-    pos kn_KSsE kn_Jha.ottu <0 0 660 0>;
-    pos kn_KSsE kn_Nya.ottu <0 0 720 0>;
-    pos kn_KSsE kn_Tta.ottu <0 0 640 0>;
-    pos kn_KSsE kn_Ttha.ottu <0 0 460 0>;
-    pos kn_KSsE kn_Dda.ottu <0 0 520 0>;
-    pos kn_KSsE kn_Ddha.ottu <0 0 520 0>;
-    pos kn_KSsE kn_Nna.ottu <0 0 600 0>;
-    pos kn_KSsE kn_Ta.ottu <0 0 500 0>;
-    pos kn_KSsE kn_Tha.ottu <0 0 500 0>;
-    pos kn_KSsE kn_Da.ottu <0 0 500 0>;
-    pos kn_KSsE kn_Dha.ottu <0 0 500 0>;
-    pos kn_KSsE kn_Na.ottu <0 0 400 0>;
-    pos kn_KSsE kn_Pa.ottu <0 0 540 0>;
-    pos kn_KSsE kn_Pha.ottu <0 0 540 0>;
-    pos kn_KSsE kn_Ba.ottu <0 0 540 0>;
-    pos kn_KSsE kn_Bha.ottu <0 0 540 0>;
-    pos kn_KSsE kn_Ma.ottu <0 0 400 0>;
-    pos kn_KSsE kn_Ya.ottu <0 0 400 0>;
-    pos kn_KSsE kn_Ra.ottu <0 0 160 0>;
-    pos kn_KSsE kn_Rra.ottu <0 0 640 0>;
-    pos kn_KSsE kn_La.ottu <0 0 600 0>;
-    pos kn_KSsE kn_Lla.ottu <0 0 540 0>;
-    pos kn_KSsE kn_Va.ottu <0 0 560 0>;
-    pos kn_KSsE kn_Sha.ottu <0 0 400 0>;
-    pos kn_KSsE kn_Ssa.ottu <0 0 560 0>;
-    pos kn_KSsE kn_Sa.ottu <0 0 560 0>;
-    pos kn_KSsE kn_Ha.ottu <0 0 600 0>;
-    pos kn_KSsE kn_Fa.ottu <0 0 660 0>;
-    pos kn_KSsI kn_Ta.ottu.AiLengthMark <0 0 320 0>;
-    pos kn_KSsI kn_Ma.ottu.AiLengthMark <0 0 540 0>;
-    pos kn_KSsI kn_Ta.ottu.MatraR <0 0 400 0>;
-    pos kn_KSsI kn_Ma.ottu.MatraR <0 0 600 0>;
-    pos kn_KSsI kn_Ta.Ya.ottu <0 0 600 0>;
-    pos kn_KSsI kn_Ma.Ya.ottu <0 0 700 0>;
-    pos kn_KSsI kn_Ka.ottu <0 0 420 0>;
-    pos kn_KSsI kn_Kha.ottu <0 0 640 0>;
-    pos kn_KSsI kn_Ga.ottu <0 0 420 0>;
-    pos kn_KSsI kn_Gha.ottu <0 0 700 0>;
-    pos kn_KSsI kn_Nga.ottu <0 0 540 0>;
-    pos kn_KSsI kn_Ca.ottu <0 0 600 0>;
-    pos kn_KSsI kn_Cha.ottu <0 0 640 0>;
-    pos kn_KSsI kn_Ja.ottu <0 0 540 0>;
-    pos kn_KSsI kn_Jha.ottu <0 0 700 0>;
-    pos kn_KSsI kn_Nya.ottu <0 0 720 0>;
-    pos kn_KSsI kn_Tta.ottu <0 0 660 0>;
-    pos kn_KSsI kn_Ttha.ottu <0 0 480 0>;
-    pos kn_KSsI kn_Dda.ottu <0 0 560 0>;
-    pos kn_KSsI kn_Ddha.ottu <0 0 560 0>;
-    pos kn_KSsI kn_Nna.ottu <0 0 620 0>;
-    pos kn_KSsI kn_Ta.ottu <0 0 480 0>;
-    pos kn_KSsI kn_Tha.ottu <0 0 500 0>;
-    pos kn_KSsI kn_Da.ottu <0 0 500 0>;
-    pos kn_KSsI kn_Dha.ottu <0 0 500 0>;
-    pos kn_KSsI kn_Na.ottu <0 0 380 0>;
-    pos kn_KSsI kn_Pa.ottu <0 0 560 0>;
-    pos kn_KSsI kn_Pha.ottu <0 0 560 0>;
-    pos kn_KSsI kn_Ba.ottu <0 0 560 0>;
-    pos kn_KSsI kn_Bha.ottu <0 0 560 0>;
-    pos kn_KSsI kn_Ma.ottu <0 0 400 0>;
-    pos kn_KSsI kn_Ya.ottu <0 0 400 0>;
-    pos kn_KSsI kn_Ra.ottu <0 0 200 0>;
-    pos kn_KSsI kn_Rra.ottu <0 0 660 0>;
-    pos kn_KSsI kn_La.ottu <0 0 640 0>;
-    pos kn_KSsI kn_Lla.ottu <0 0 500 0>;
-    pos kn_KSsI kn_Va.ottu <0 0 540 0>;
-    pos kn_KSsI kn_Sha.ottu <0 0 380 0>;
-    pos kn_KSsI kn_Ssa.ottu <0 0 560 0>;
-    pos kn_KSsI kn_Sa.ottu <0 0 580 0>;
-    pos kn_KSsI kn_Ha.ottu <0 0 640 0>;
-    pos kn_KSsI kn_Fa.ottu <0 0 660 0>;
-    pos kn_KSsAu kn_Ma.ottu.AiLengthMark <0 0 180 0>;
-    pos kn_KSsAu kn_Ma.ottu.MatraR <0 0 260 0>;
-    pos kn_KSsAu kn_Ra.ottu.alt1 <0 0 -300 0>;
-    pos kn_KSsAu kn_Ta.Ya.ottu <0 0 200 0>;
-    pos kn_KSsAu kn_Ma.Ya.ottu <0 0 300 0>;
-    pos kn_KSsAu kn_Ka.ottu <0 0 60 0>;
-    pos kn_KSsAu kn_Kha.ottu <0 0 240 0>;
-    pos kn_KSsAu kn_Ga.ottu <0 0 60 0>;
-    pos kn_KSsAu kn_Gha.ottu <0 0 300 0>;
-    pos kn_KSsAu kn_Nga.ottu <0 0 200 0>;
-    pos kn_KSsAu kn_Ca.ottu <0 0 220 0>;
-    pos kn_KSsAu kn_Cha.ottu <0 0 260 0>;
-    pos kn_KSsAu kn_Ja.ottu <0 0 200 0>;
-    pos kn_KSsAu kn_Jha.ottu <0 0 300 0>;
-    pos kn_KSsAu kn_Nya.ottu <0 0 300 0>;
-    pos kn_KSsAu kn_Tta.ottu <0 0 260 0>;
-    pos kn_KSsAu kn_Ttha.ottu <0 0 120 0>;
-    pos kn_KSsAu kn_Dda.ottu <0 0 180 0>;
-    pos kn_KSsAu kn_Ddha.ottu <0 0 180 0>;
-    pos kn_KSsAu kn_Nna.ottu <0 0 300 0>;
-    pos kn_KSsAu kn_Ta.ottu <0 0 200 0>;
-    pos kn_KSsAu kn_Tha.ottu <0 0 120 0>;
-    pos kn_KSsAu kn_Da.ottu <0 0 120 0>;
-    pos kn_KSsAu kn_Dha.ottu <0 0 120 0>;
-    pos kn_KSsAu kn_Na.ottu <0 0 40 0>;
-    pos kn_KSsAu kn_Pa.ottu <0 0 200 0>;
-    pos kn_KSsAu kn_Pha.ottu <0 0 200 0>;
-    pos kn_KSsAu kn_Ba.ottu <0 0 200 0>;
-    pos kn_KSsAu kn_Bha.ottu <0 0 200 0>;
-    pos kn_KSsAu kn_Ma.ottu <0 0 40 0>;
-    pos kn_KSsAu kn_Ya.ottu <0 0 80 0>;
-    pos kn_KSsAu kn_Ra.ottu <0 0 -200 0>;
-    pos kn_KSsAu kn_Rra.ottu <0 0 320 0>;
-    pos kn_KSsAu kn_La.ottu <0 0 280 0>;
-    pos kn_KSsAu kn_Lla.ottu <0 0 160 0>;
-    pos kn_KSsAu kn_Va.ottu <0 0 160 0>;
-    pos kn_KSsAu kn_Sha.ottu <0 0 60 0>;
-    pos kn_KSsAu kn_Ssa.ottu <0 0 180 0>;
-    pos kn_KSsAu kn_Sa.ottu <0 0 180 0>;
-    pos kn_KSsAu kn_Ha.ottu <0 0 240 0>;
-    pos kn_KSsAu kn_Fa.ottu <0 0 300 0>;
-    pos kn_JNya kn_Ta.ottu.AiLengthMark <0 0 200 0>;
-    pos kn_JNya kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_JNya kn_Ta.ottu.MatraR <0 0 200 0>;
-    pos kn_JNya kn_Ma.ottu.MatraR <0 0 600 0>;
-    pos kn_JNya kn_Ra.ottu.alt1 <0 0 -40 0>;
-    pos kn_JNya kn_Ta.Ya.ottu <0 0 480 0>;
-    pos kn_JNya kn_Ma.Ya.ottu <0 0 700 0>;
-    pos kn_JNya kn_Ka.ottu <0 0 420 0>;
-    pos kn_JNya kn_Kha.ottu <0 0 640 0>;
-    pos kn_JNya kn_Ga.ottu <0 0 420 0>;
-    pos kn_JNya kn_Gha.ottu <0 0 700 0>;
-    pos kn_JNya kn_Nga.ottu <0 0 540 0>;
-    pos kn_JNya kn_Ca.ottu <0 0 580 0>;
-    pos kn_JNya kn_Cha.ottu <0 0 640 0>;
-    pos kn_JNya kn_Ja.ottu <0 0 560 0>;
-    pos kn_JNya kn_Jha.ottu <0 0 680 0>;
-    pos kn_JNya kn_Nya.ottu <0 0 720 0>;
-    pos kn_JNya kn_Tta.ottu <0 0 660 0>;
-    pos kn_JNya kn_Ttha.ottu <0 0 480 0>;
-    pos kn_JNya kn_Dda.ottu <0 0 580 0>;
-    pos kn_JNya kn_Ddha.ottu <0 0 580 0>;
-    pos kn_JNya kn_Nna.ottu <0 0 650 0>;
-    pos kn_JNya kn_Ta.ottu <0 0 400 0>;
-    pos kn_JNya kn_Tha.ottu <0 0 520 0>;
-    pos kn_JNya kn_Da.ottu <0 0 520 0>;
-    pos kn_JNya kn_Dha.ottu <0 0 520 0>;
-    pos kn_JNya kn_Na.ottu <0 0 380 0>;
-    pos kn_JNya kn_Pa.ottu <0 0 580 0>;
-    pos kn_JNya kn_Pha.ottu <0 0 580 0>;
-    pos kn_JNya kn_Ba.ottu <0 0 560 0>;
-    pos kn_JNya kn_Bha.ottu <0 0 560 0>;
-    pos kn_JNya kn_Ma.ottu <0 0 420 0>;
-    pos kn_JNya kn_Ya.ottu <0 0 420 0>;
-    pos kn_JNya kn_Ra.ottu <0 0 200 0>;
-    pos kn_JNya kn_Rra.ottu <0 0 660 0>;
-    pos kn_JNya kn_La.ottu <0 0 640 0>;
-    pos kn_JNya kn_Lla.ottu <0 0 520 0>;
-    pos kn_JNya kn_Va.ottu <0 0 560 0>;
-    pos kn_JNya kn_Sha.ottu <0 0 400 0>;
-    pos kn_JNya kn_Ssa.ottu <0 0 560 0>;
-    pos kn_JNya kn_Sa.ottu <0 0 520 0>;
-    pos kn_JNya kn_Ha.ottu <0 0 620 0>;
-    pos kn_JNya kn_Fa.ottu <0 0 660 0>;
-    pos kn_JNyI kn_Ta.ottu.AiLengthMark <0 0 200 0>;
-    pos kn_JNyI kn_Ma.ottu.AiLengthMark <0 0 500 0>;
-    pos kn_JNyI kn_Ta.ottu.MatraR <0 0 240 0>;
-    pos kn_JNyI kn_Ma.ottu.MatraR <0 0 540 0>;
-    pos kn_JNyI kn_Ra.ottu.alt1 <0 0 -60 0>;
-    pos kn_JNyI kn_Ta.Ya.ottu <0 0 500 0>;
-    pos kn_JNyI kn_Ma.Ya.ottu <0 0 600 0>;
-    pos kn_JNyI kn_Ka.ottu <0 0 440 0>;
-    pos kn_JNyI kn_Kha.ottu <0 0 650 0>;
-    pos kn_JNyI kn_Ga.ottu <0 0 420 0>;
-    pos kn_JNyI kn_Gha.ottu <0 0 700 0>;
-    pos kn_JNyI kn_Nga.ottu <0 0 540 0>;
-    pos kn_JNyI kn_Ca.ottu <0 0 600 0>;
-    pos kn_JNyI kn_Cha.ottu <0 0 600 0>;
-    pos kn_JNyI kn_Ja.ottu <0 0 560 0>;
-    pos kn_JNyI kn_Jha.ottu <0 0 700 0>;
-    pos kn_JNyI kn_Nya.ottu <0 0 720 0>;
-    pos kn_JNyI kn_Tta.ottu <0 0 680 0>;
-    pos kn_JNyI kn_Ttha.ottu <0 0 500 0>;
-    pos kn_JNyI kn_Dda.ottu <0 0 580 0>;
-    pos kn_JNyI kn_Ddha.ottu <0 0 580 0>;
-    pos kn_JNyI kn_Nna.ottu <0 0 650 0>;
-    pos kn_JNyI kn_Ta.ottu <0 0 360 0>;
-    pos kn_JNyI kn_Tha.ottu <0 0 500 0>;
-    pos kn_JNyI kn_Da.ottu <0 0 500 0>;
-    pos kn_JNyI kn_Dha.ottu <0 0 500 0>;
-    pos kn_JNyI kn_Na.ottu <0 0 380 0>;
-    pos kn_JNyI kn_Pa.ottu <0 0 560 0>;
-    pos kn_JNyI kn_Pha.ottu <0 0 560 0>;
-    pos kn_JNyI kn_Ba.ottu <0 0 540 0>;
-    pos kn_JNyI kn_Bha.ottu <0 0 540 0>;
-    pos kn_JNyI kn_Ma.ottu <0 0 400 0>;
-    pos kn_JNyI kn_Ya.ottu <0 0 400 0>;
-    pos kn_JNyI kn_Ra.ottu <0 0 200 0>;
-    pos kn_JNyI kn_Rra.ottu <0 0 660 0>;
-    pos kn_JNyI kn_La.ottu <0 0 620 0>;
-    pos kn_JNyI kn_Lla.ottu <0 0 500 0>;
-    pos kn_JNyI kn_Va.ottu <0 0 560 0>;
-    pos kn_JNyI kn_Sha.ottu <0 0 380 0>;
-    pos kn_JNyI kn_Ssa.ottu <0 0 560 0>;
-    pos kn_JNyI kn_Sa.ottu <0 0 520 0>;
-    pos kn_JNyI kn_Ha.ottu <0 0 620 0>;
-    pos kn_JNyI kn_Fa.ottu <0 0 660 0>;
+    pos kn_Ra.ottu.alt1 kn_Ta.Ya.ottu <0 0 730 0>;
+    pos kn_MatraE kn_MatraUu <0 0 -140 0>;
+    pos kn_LlE kn_MatraUu <0 0 -100 0>;
+    pos kn_Reph kn_Kha <0 0 -40 0>;
+    pos kn_Reph kn_Tta <0 0 -50 0>;
+    pos kn_Reph kn_Avargha <0 0 -80 0>;
+    pos kn_Reph kn_TtE <0 0 -40 0>;
+    pos kn_Reph kn_KhI <0 0 -50 0>;
+    pos kn_Reph kn_TtI <0 0 -50 0>;
+    pos kn_Reph kn_TthI <0 0 -40 0>;
+    pos kn_Reph kn_DdI <0 0 -60 0>;
+    pos kn_Reph kn_DdhI <0 0 -60 0>;
+    pos kn_Reph kn_TI <0 0 -180 0>;
+    pos kn_Reph kn_ThI <0 0 -60 0>;
+    pos kn_Reph kn_DI <0 0 -60 0>;
+    pos kn_Reph kn_DhI <0 0 -60 0>;
+    pos kn_Reph kn_NI <0 0 -180 0>;
+    pos kn_Reph kn_MI <0 0 -180 0>;
+    pos kn_Reph kn_VI <0 0 -180 0>;
+    pos kn_Reph kn_GhI <0 0 -180 0>;
+    pos kn_Reph kn_PI <0 0 -180 0>;
+    pos kn_Reph kn_PhI <0 0 -180 0>;
+    pos kn_Reph kn_SsI <0 0 -180 0>;
+    pos kn_Reph kn_SI <0 0 -180 0>;
+    pos kn_Reph kn_KSsI <0 0 -100 0>;
+ subtable;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ja.ottu] <0 0 200 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ssa.ottu] <0 0 100 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_MatraLl] <0 0 140 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ha.ottu] <0 0 100 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Bha.ottu] <0 0 180 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ya.ottu] <0 0 60 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_La.ottu] <0 0 240 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_MatraL] <0 0 140 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Fa.ottu] <0 0 180 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Nna.ottu] <0 0 260 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ttha.ottu] <0 0 120 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Va.ottu] <0 0 180 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Tha.ottu] <0 0 120 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Da.ottu] <0 0 120 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ca.ottu] <0 0 200 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Tta.ottu] <0 0 300 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Sa.ottu] <0 0 100 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Sha.ottu] <0 0 40 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Lla.ottu] <0 0 200 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Pa.ottu] <0 0 120 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Gha.ottu] <0 0 400 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ba.ottu] <0 0 180 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Kha.ottu] <0 0 240 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Rra.ottu] <0 0 280 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ta.Ya.ottu] <0 0 200 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Na.ottu] <0 0 120 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Dda.ottu] <0 0 120 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Nga.ottu] <0 0 200 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Dha.ottu] <0 0 120 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ddha.ottu] <0 0 120 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ma.Ya.ottu] <0 0 400 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ma.ottu] <0 0 60 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Jha.ottu] <0 0 540 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Nya.ottu] <0 0 360 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Ka.ottu] <0 0 20 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Pha.ottu] <0 0 120 0>;
+    pos [kn_Gha kn_Cha kn_Jha kn_Ddha kn_Tha kn_Dha kn_Pha kn_Cha.base kn_Ddha.base
+         kn_Tha.base kn_Dha.base kn_Pha.base kn_Bha.base kn_La.ottu kn_GhE kn_JhE
+         kn_ChI kn_JhI kn_DdhI kn_ThI kn_DhI kn_BhI kn_GhI kn_PhI kn_GhAu]
+        [kn_Cha.ottu] <0 0 200 0>;
+    pos [kn_Ra.ottu]
+        [kn_Rra.ottu] <0 0 785 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ja.ottu] <0 0 643 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ssa.ottu] <0 0 669 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_MatraLl] <0 0 666 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ha.ottu] <0 0 739 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Bha.ottu] <0 0 657 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ya.ottu] <0 0 523 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_La.ottu] <0 0 735 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_MatraL] <0 0 666 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Fa.ottu] <0 0 778 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Nna.ottu] <0 0 735 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ttha.ottu] <0 0 581 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Va.ottu] <0 0 677 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Tha.ottu] <0 0 606 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Da.ottu] <0 0 606 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ca.ottu] <0 0 688 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Tta.ottu] <0 0 766 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Sa.ottu] <0 0 680 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Sha.ottu] <0 0 493 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Lla.ottu] <0 0 625 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Pa.ottu] <0 0 677 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Gha.ottu] <0 0 785 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ba.ottu] <0 0 657 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Kha.ottu] <0 0 734 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Rra.ottu] <0 0 785 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ta.Ya.ottu] <0 0 730 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Na.ottu] <0 0 596 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Dda.ottu] <0 0 665 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Nga.ottu] <0 0 643 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Dha.ottu] <0 0 606 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ddha.ottu] <0 0 665 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ma.Ya.ottu] <0 0 1011 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ma.ottu] <0 0 512 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Jha.ottu] <0 0 992 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Nya.ottu] <0 0 829 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ka.ottu] <0 0 525 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Pha.ottu] <0 0 677 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Cha.ottu] <0 0 744 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_AiLengthMark] <0 0 120 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ga.ottu] <0 0 509 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ta.ottu.MatraR] <0 0 480 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ma.ottu.MatraR] <0 0 640 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ta.ottu] <0 0 748 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ta.ottu.AiLengthMark] <0 0 460 0>;
+    pos [kn_Ta.ottu.AiLengthMark kn_Ma.ottu.AiLengthMark kn_Ta.ottu.MatraR kn_Ma.ottu.MatraR
+         kn_Ra.ottu.alt1 kn_Ta.Ya.ottu kn_Ma.Ya.ottu kn_Ka.ottu kn_Kha.ottu kn_Ga.ottu
+         kn_Gha.ottu kn_Nga.ottu kn_Ca.ottu kn_Cha.ottu kn_Ja.ottu kn_Jha.ottu
+         kn_Nya.ottu kn_Tta.ottu kn_Ttha.ottu kn_Dda.ottu kn_Ddha.ottu kn_Nna.ottu
+         kn_Ta.ottu kn_Tha.ottu kn_Da.ottu kn_Dha.ottu kn_Na.ottu kn_Pa.ottu
+         kn_Pha.ottu kn_Ba.ottu kn_Bha.ottu kn_Ma.ottu kn_Ya.ottu kn_Rra.ottu
+         kn_Lla.ottu kn_Va.ottu kn_Sha.ottu kn_Ssa.ottu kn_Sa.ottu kn_Ha.ottu
+         kn_Fa.ottu kn_MatraL kn_MatraLl kn_AiLengthMark kn_MatraU.alt1 kn_KSsa
+         kn_KSsa.halant kn_KSsE kn_KSsI kn_KSsAu kn_JNya kn_JNyI]
+        [kn_Ma.ottu.AiLengthMark] <0 0 560 0>;
+    pos [kn_MatraE.alt1]
+        [kn_AiLengthMark] <0 0 -80 0>;
+    pos [kn_MatraE]
+        [kn_AiLengthMark] <0 0 -80 0>;
 } kern_kannada;
 
 lookup kern {
